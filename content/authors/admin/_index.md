@@ -57,8 +57,8 @@ skills:
       - name: Matlab
         description: ''
         #percent: 80
-        icon: matlab
-        icon_pack: fab
+        icon: devicon/matlab
+        #icon_pack: fab
       - name: LaTeX
         description: ''
         #percent: 100
@@ -97,8 +97,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: fa-lightbulb
-    icon_pack: fab
+  - icon: lightbulb
+    icon_pack: fas
     link: https://ideas.repec.org/f/pme248.html
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
