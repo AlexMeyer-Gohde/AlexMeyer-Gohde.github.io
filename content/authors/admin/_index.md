@@ -58,12 +58,12 @@ skills:
         description: ''
         #percent: 80
         icon: matlab
-        icon_pack: devicon
+        icon_pack: fab
       - name: LaTeX
         description: ''
         #percent: 100
         icon: latex
-        icon_pack: devicon
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 40
