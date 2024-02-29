@@ -34,7 +34,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: 1200px-Goethe-Logo.svg
+          company_logo: 1200px-Goethe-Logo
           location: California
           date_start: '2021-01-01'
           date_end: ''
