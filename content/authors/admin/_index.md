@@ -42,7 +42,7 @@ education:
     - course: Doctor rer. oec. (Ph.D. in Economics)
       institution: Technische Universität Berlin
       year: 2010
-    - course: MA in Economics and Management Sciences
+    - course: MA in Economics and Management
       institution: Humboldt-Universität zu Berlin
       year: 2006
     - course: BA in Language, Literature & Culture
@@ -54,16 +54,16 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Matlab
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        #percent: 80
+        icon: matlab
+        icon_pack: devicon
+      - name: LaTeX
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        #percent: 100
+        icon: latex
+        icon_pack: devicon
       - name: SQL
         description: ''
         percent: 40
