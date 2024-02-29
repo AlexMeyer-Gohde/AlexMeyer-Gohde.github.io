@@ -97,7 +97,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: ideas-repec
+  - icon: custom/ideas-repec
     link: https://ideas.repec.org/f/pme248.html
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
