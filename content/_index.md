@@ -34,7 +34,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: Goethe-Logo
+          company_logo: Goethe
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -47,7 +47,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: UHH
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
