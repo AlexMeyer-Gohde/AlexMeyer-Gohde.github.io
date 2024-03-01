@@ -119,14 +119,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: ''
-          date_start: '2021-01-25'
+        - date_end: '2024-11-14'
+          date_start: '2021-11-15'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          icon: dfg
+          organization: German Research Foundation (DFG)
+          organization_url: https://www.dfg.de
+          title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
+          url: 'https://gepris.dfg.de/gepris/projekt/465469938?language=en'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
