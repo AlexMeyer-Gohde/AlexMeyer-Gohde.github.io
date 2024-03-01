@@ -77,7 +77,7 @@ sections:
           description: Teaching and research assisstance at the chair of Prof. Dr. Frank Heinemann
         - title: Academic Assistant
           company: Potsdam Institute for Climate Impact Research
-          company_url: ''
+          company_url: 'https://www.pik-potsdam.de/en/home'
           company_logo: PIK
           location: Potsdam, Germany
           date_start: '2006-04-01'
