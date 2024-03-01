@@ -79,11 +79,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_meyer-gohde_2024_website.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alexander Meyer-Gohde is a professor of financial markets and macroeconomics at the Goethe University Frankfurt and the Institute for Monetary and Financial Stability (IMFS). His research concentrates on the methodological (numerical, theoretical, and empirical) foundations of macroeconomics and its interaction with financial markets through nonlinearities in risk and uncertainty, as well as through market frictions. Originally from the US, he obtained his bachelor's from Colorado State University in his home state before moving to Germany. His master's followed at the Humboldt-Unversität zu Berlin and he obtained his doctorate from the Technische Universität Berlin. Before coming to Frankfurt, he held various positions in Hamburg, Berlin, and Potsdam.
 {style="text-align: justify;"}
