@@ -33,69 +33,50 @@ sections:
       items:
         - title: Professor of Financial Markets and Macroeconomics
           company: Goethe University Frankfurt
-          company_url: ''
+          company_url: 'https://www.wiwi.uni-frankfurt.de/en/home.html'
           company_logo: Goethe
           location: Frankfurt, Germany
           date_start: '2018-04-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Management of chair, research, teaching at all levels BSc/MSc/PhD, participation in university self-administration
         - title: IMFS Professor
           company: Institute for Monetary and Financial Stability (IMFS)
-          company_url: ''
+          company_url: 'https://www.imfs-frankfurt.de/en/'
           company_logo: IMFS_Logo
           location: Frankfurt, Germany
           date_start: '2018-04-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Fulfill the main objective of the institute: the implementation of the "Project Monetary and Financial Stability" that is supported by the Foundation for Monetary and Financial Stability (Stiftung Geld und Währung). This includes raising public awareness of the importance of monetary and financial stability through public and target group-oriented activities of the institute as well as interdiscipinary research and teaching. 
         - title: Visiting Professor of Economics – Growth and Business Cycles
           company: University of Hamburg
-          company_url: ''
+          company_url: 'https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/lucke.html'
           company_logo: UHH
           location: Frankfurt, Germany
           date_start: '2014-10-01'
           date_end: '2018-03-31'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Long-term susbtitute for the chain of Growth and Business Cycles
+              Independent management of chair, research, teaching at all levels BSc/MSc/PhD, participation in university self-administration
         - title: Postdoctoral Assistant
           company: Humboldt University of Berlin
-          company_url: ''
+          company_url: 'https://www.wiwi.hu-berlin.de/de/professuren/vwl/wtm2/mitarbeiter/burda/prof-michael-burda-phd'
           company_logo: Huberlin
           location: Berlin, Germany
           date_start: '2010-08-01'
           date_end: '2014-09-30'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Teaching, research, and supervision assisstance at the chair of Michael C. Burda
         - title: Academic Assistant
           company: Technical University of Berlin
-          company_url: ''
+          company_url: 'https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann'
           company_logo: TU-Berlin
           location: Berlin, Germany
           date_start: '2006-11-01'
           date_end: '2010-07-31'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description:
+              Teaching and research assisstance at the chair of Frank Heinemann
         - title: Academic Assistant
           company: Potsdam Institute for Climate Impact Research
           company_url: ''
