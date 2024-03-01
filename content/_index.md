@@ -48,7 +48,7 @@ sections:
           date_start: '2018-04-01'
           date_end: ''
           description: |2-
-              Fulfill the main objective of the institute: the implementation of the "Project Monetary and Financial Stability" that is supported by the Foundation for Monetary and Financial Stability (Stiftung Geld und Währung). This includes raising public awareness of the importance of monetary and financial stability through public and target group-oriented activities of the institute as well as interdiscipinary research and teaching. 
+              Fulfill the main objective of the institute: the implementation of the "Project Monetary and Financial Stability" that is supported by the Foundation for Monetary and Financial Stability (Stiftung Geld und Währung). This includes raising public awareness of the importance of monetary and financial stability through the public and target group-oriented activities of the institute as well as interdiscipinary research and teaching. 
         - title: Visiting Professor of Economics – Growth and Business Cycles
           company: University of Hamburg
           company_url: 'https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/lucke.html'
