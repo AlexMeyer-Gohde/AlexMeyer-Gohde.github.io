@@ -147,11 +147,8 @@ sections:
           date_start: '2002-10-01'
           date_end: '2006-04-30'
           description: |2-
-             Dissertation advisor: Prof. Dr. Frank Heinemann
-
-              * Analysing
-              * Modelling
-              * Deploying
+             Thesis advisor: Prof. Harald Uhlig, Ph.D.
+             Thesis: On International Cooperation in Monetary and Fiscal Policy
         - title: Bachelor of Arts cum laude in Language, Literature & Culture
           company: Colorado State University
           company_url: ''
@@ -159,12 +156,7 @@ sections:
           location: Fort Collins, Colorado, USA
           date_start: '1999-08-30'
           date_end: '2001-12-31'
-          description: |2-
-             Minor in Economics
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Minor in Economics
     design:
       columns: '2'
   - block: collection
