@@ -70,23 +70,10 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Postdoctoral Assistant
-          company: Humboldt University of Berlin
-          company_url: ''
-          company_logo: ''
-          location: Berlin, Germany
-          date_start: '2010-08-01'
-          date_end: '2014-09-31'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Academic Assistant
           company: Technical University of Berlin
           company_url: ''
-          company_logo: ''
+          company_logo: TU-Berlin
           location: Berlin, Germany
           date_start: '2006-11-01'
           date_end: '2010-07-31'
