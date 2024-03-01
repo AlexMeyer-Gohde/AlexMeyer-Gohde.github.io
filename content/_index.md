@@ -66,8 +66,7 @@ sections:
           location: Berlin, Germany
           date_start: '2010-08-01'
           date_end: '2014-09-30'
-          description: |2-
-              Teaching, research, and supervision assisstance at the chair of Michael C. Burda
+          description: Teaching, research, and supervision assisstance at the chair of Prof. Dr. h.c. Michael C. Burda, Ph.D.
         - title: Academic Assistant
           company: Technical University of Berlin
           company_url: 'https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann'
@@ -75,8 +74,7 @@ sections:
           location: Berlin, Germany
           date_start: '2006-11-01'
           date_end: '2010-07-31'
-          description:
-              Teaching and research assisstance at the chair of Frank Heinemann
+          description: Teaching and research assisstance at the chair of Prof. Dr. Frank Heinemann
         - title: Academic Assistant
           company: Potsdam Institute for Climate Impact Research
           company_url: ''
@@ -84,7 +82,7 @@ sections:
           location: Potsdam, Germany
           date_start: '2006-04-01'
           date_end: '2006-10-31'
-          description: Integrated modern dynamic stochastic general equilibrium (DSGE) macroeconomic modelling components into joint climate-economic models.
+          description: Integrated modern dynamic stochastic general equilibrium (DSGE) macroeconomic modelling components into joint climate-economic models. Research assisstance for Prof. Dr. Carlo C. Jaeger
     design:
       columns: '2'
   - block: accomplishments
@@ -140,10 +138,6 @@ sections:
           date_end: '2010-10-31'
           description: |2-
              Dissertation advisor: Prof. Dr. Frank Heinemann
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Master of Arts in Economics and Management Sciences
           company: Humboldt University of Berlin
           company_url: ''
