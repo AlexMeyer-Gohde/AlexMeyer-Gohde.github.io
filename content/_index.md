@@ -127,24 +127,15 @@ sections:
           organization_url: https://www.dfg.de
           title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
           url: 'https://gepris.dfg.de/gepris/projekt/465469938?language=en'
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          description: Individual research grant
+        - date_end: '2023-03-31'
+          date_start: '2022-04-01'
+          description: Integration of interactive teaching and learning modules of Matlab in PMAK 
+          icon: stiftung_hochschullehre_logo
+          organization: DigiTeLL / Stiftung Innovation in der Hochschullehre
+          organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
+          title: MatlabMakro
+          url: https://www.goethe-university-frankfurt.de/122966160/Partnerships#MatlabMakro
     design:
       columns: '2'
   - block: experience
