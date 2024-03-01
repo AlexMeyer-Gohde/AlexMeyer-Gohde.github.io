@@ -269,17 +269,17 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: alexander@meyer-gohde.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
-        street: Theodor-W.-Adorno-Platz
+        street: Theodor-W.-Adorno-Platz 3
         city: Frankfurt am Main
 #        region: CA
         postcode: '60323'
         country: Germany
         country_code: DE
-      directions: South side, 4th Floor
+      directions: House of Finance, South side, 4th Floor
       office_hours: By appointment
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
