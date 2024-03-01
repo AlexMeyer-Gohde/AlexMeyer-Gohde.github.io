@@ -218,7 +218,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="me" >}}
     design:
       columns: '1'
   - block: collection
