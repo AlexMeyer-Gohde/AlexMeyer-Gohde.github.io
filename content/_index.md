@@ -31,12 +31,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Professor of Financial Markets and Macroeconomics
+          company: Goethe University Frankfurt
           company_url: ''
           company_logo: Goethe
-          location: California
-          date_start: '2021-01-01'
+          location: Frankfurt, Germany
+          date_start: '2018-04-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -44,14 +44,40 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: IMFS Professor
+          company: Institute for Monetary and Financial Stability (IMFS)
+          company_url: ''
+          company_logo: IMFS_Logo
+          location: Frankfurt, Germany
+          date_start: '2018-04-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Visiting Professor of Economics – Growth and Business Cycles
+          company: Hamburg University
           company_url: ''
           company_logo: UHH
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Frankfurt, Germany
+          date_start: '2014-10-01'
+          date_end: '2018-03-31'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Academic Assistant
+          company: Potsdam Institute for Climate Impact Research
+          company_url: ''
+          company_logo: PIK
+          location: Potsdam, Germany
+          date_start: '2006-04-01'
+          date_end: '2006-10-31'
+          description: Integrated modern dynamic stochastic general equilibrium (DSGE) macroeconomic modelling components into joint climate-economic models.
     design:
       columns: '2'
   - block: accomplishments
