@@ -148,59 +148,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: experience
-    content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Doctor rer. oec. (Ph.D. in Economics) summa cum laude
-          company: Technical University of Berlin
-          company_url: ''
-          company_logo: TU-Berlin
-          location: Berlin, Germany
-          date_start: '2006-10-01'
-          date_end: '2010-10-31'
-          description: |2-
-             Dissertation advisor: Prof. Dr. Frank Heinemann
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Master of Arts in Economics and Management Sciences
-          company: Humboldt University of Berlin
-          company_url: ''
-          company_logo: Huberlin
-          location: Berlin, Germany
-          date_start: '2002-10-01'
-          date_end: '2006-04-30'
-          description: |2-
-             Dissertation advisor: Prof. Dr. Frank Heinemann
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Bachelor of Arts cum laude in Language, Literature & Culture
-          company: Colorado State University
-          company_url: ''
-          company_logo: CSU_logo
-          location: Fort Collins, Colorado, USA
-          date_start: '1999-08-30'
-          date_end: '2001-12-31'
-          description: |2-
-             Minor in Economics
-
-              * Analysing
-              * Modelling
-              * Deploying
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
