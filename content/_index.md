@@ -283,8 +283,8 @@ sections:
       office_hours: By appointment
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '50.12738176166787'
-        longitude: '8.665224133082633'  
+        latitude: '50.12717'
+        longitude: '8.66525'  
  #     contact_links:
  #       - icon: twitter
  #         icon_pack: fab
