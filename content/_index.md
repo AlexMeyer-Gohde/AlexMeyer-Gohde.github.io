@@ -73,10 +73,10 @@ sections:
         - title: Postdoctoral Assistant
           company: Humboldt University of Berlin
           company_url: ''
-          company_logo: TU-Berlin
+          company_logo: Huberlin
           location: Berlin, Germany
           date_start: '2010-08-01'
-          date_end: '2014-09-31'
+          date_end: '2014-09-30'
           description: |2-
               Responsibilities include:
 
