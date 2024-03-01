@@ -147,8 +147,8 @@ sections:
           date_start: '2002-10-01'
           date_end: '2006-04-30'
           description: |2-
-             Thesis advisor: Prof. Harald Uhlig, Ph.D.
-             Thesis: [On International Cooperation in Monetary and Fiscal Policy](uploads/cv_meyer-gohde_2024_website.pdf)
+             Thesis advisor: Prof. Harald Uhlig, Ph.D.<br>
+             Thesis: [On International Cooperation in Monetary and Fiscal Policy](uploads/0508_zieroth.pdf)
         - title: Bachelor of Arts cum laude in Language, Literature & Culture
           company: Colorado State University
           company_url: ''
