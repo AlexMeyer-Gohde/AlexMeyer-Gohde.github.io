@@ -320,7 +320,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: assets/media/album/me/amalfi.jpg
+              +filename: assets/media/album/me/amalfi.jpg
               filters:
                 brightness: 0.7
             position: right
@@ -332,7 +332,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: assets/media/album/me/elbe.jpg
+              #filename: assets/media/album/me/elbe.jpg
               filters:
                 brightness: 0.7
             position: center
@@ -344,7 +344,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: assets/media/album/me/me.jpg
+              #filename: assets/media/album/me/me.jpg
               filters:
                 brightness: 0.5
             position: center
