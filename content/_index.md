@@ -58,12 +58,38 @@ sections:
               * Modelling
               * Deploying
         - title: Visiting Professor of Economics – Growth and Business Cycles
-          company: Hamburg University
+          company: University of Hamburg
           company_url: ''
           company_logo: UHH
           location: Frankfurt, Germany
           date_start: '2014-10-01'
           date_end: '2018-03-31'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Postdoctoral Assistant
+          company: Humboldt University of Berlin
+          company_url: ''
+          company_logo: Huberlin
+          location: Berlin, Germany
+          date_start: '2010-08-01'
+          date_end: '2014-09-31'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Academic Assistant
+          company: Technical University of Berlin
+          company_url: ''
+          company_logo: TU-Berlin
+          location: Berlin, Germany
+          date_start: '2006-11-01'
+          date_end: '2010-07-31'
           description: |2-
               Responsibilities include:
 
@@ -134,27 +160,45 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Professor of Financial Markets and Macroeconomics
-          company: Goethe University Frankfurt
+        - title: Doctor rer. oec. (Ph.D. in Economics) summa cum laude
+          company: Technical University of Berlin
           company_url: ''
-          company_logo: Goethe
-          location: Frankfurt, Germany
-          date_start: '2018-04-01'
-          date_end: ''
+          company_logo: TU-Berlin
+          location: Berlin, Germany
+          date_start: '2006-10-01'
+          date_end: '2010-10-31'
           description: |2-
-              Responsibilities include:
+             Dissertation advisor: Prof. Dr. Frank Heinemann
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Academic Assistant
-          company: Potsdam Institute for Climate Impact Research
+        - title: Master of Arts in Economics and Management Sciences
+          company: Humboldt University of Berlin
           company_url: ''
-          company_logo: PIK
-          location: Potsdam, Germany
-          date_start: '2006-04-01'
-          date_end: '2006-10-31'
-          description: Integrated modern dynamic stochastic general equilibrium (DSGE) macroeconomic modelling components into joint climate-economic models.
+          company_logo: Huberlin
+          location: Berlin, Germany
+          date_start: '2002-10-01'
+          date_end: '2006-04-30'
+          description: |2-
+             Dissertation advisor: Prof. Dr. Frank Heinemann
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Bachelor of Arts cum laude in Language, Literature & Culture
+          company: Colorado State University
+          company_url: ''
+          company_logo: CSU_logo
+          location: Fort Collins, Colorado, USA
+          date_start: '1999-08-30'
+          date_end: '2001-12-31'
+          description: |2-
+             Minor in Economics
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       columns: '2'
   - block: collection
