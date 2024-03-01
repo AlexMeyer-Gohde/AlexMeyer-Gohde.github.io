@@ -137,7 +137,7 @@ sections:
           date_start: '2006-10-01'
           date_end: '2010-10-31'
           description: |2-
-             Primary advisor: Prof. Dr. Frank Heinemann\n
+             Primary advisor: Prof. Dr. Frank Heinemann<br>
              Dissertation [Macroeconomics and Imperfect Information](https://depositonce.tu-berlin.de/items/4531f2af-db40-4d0c-ad25-48011ea7c003)
         - title: Master of Arts in Economics and Management Sciences
           company: Humboldt University of Berlin
