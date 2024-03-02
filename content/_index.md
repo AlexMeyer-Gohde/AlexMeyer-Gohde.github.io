@@ -294,7 +294,11 @@ sections:
       coordinates:
         latitude: '50.12717'
         longitude: '8.66525'  
- #     contact_links:
+      contact_links:
+        - icon: linkedin
+          name: LinkedIn
+          icon_pack: fab
+          link: https://www.linkedin.com/in/alexander-meyer-gohde-61b46034/
  #       - icon: twitter
  #         icon_pack: fab
  #         name: DM Me
