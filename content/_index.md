@@ -19,7 +19,77 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: markdown
+  id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: 
+      Passion for teaching
+
+      all levels
+    design:
+      columns: '2'
+  - block: accomplishments
+    id: activities
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Grants'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: '2024-11-14'
+          date_start: '2021-11-15'
+          description: ''
+          icon: dfg
+          organization: German Research Foundation (DFG)
+          organization_url: https://www.dfg.de
+          title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
+          url: 'https://gepris.dfg.de/gepris/projekt/465469938?language=en'
+          description: Individual research grant
+        - date_end: '2023-03-31'
+          date_start: '2022-04-01'
+          description: Integration of interactive teaching and learning modules of Matlab in PMAK 
+          icon: stiftung_hochschullehre_logo
+          organization: DigiTeLL / Stiftung Innovation in der Hochschullehre
+          organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
+          title: MatlabMakro
+          url: https://www.goethe-university-frankfurt.de/122966160/Partnerships#MatlabMakro
+    design:
+      columns: '2'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -83,38 +153,6 @@ sections:
           date_start: '2006-04-01'
           date_end: '2006-10-31'
           description: Integrated modern dynamic stochastic general equilibrium (DSGE) macroeconomic modelling components into joint climate-economic models. Research assisstance for Prof. Dr. Carlo C. Jaeger
-    design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - date_end: '2024-11-14'
-          date_start: '2021-11-15'
-          description: ''
-          icon: dfg
-          organization: German Research Foundation (DFG)
-          organization_url: https://www.dfg.de
-          title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
-          url: 'https://gepris.dfg.de/gepris/projekt/465469938?language=en'
-          description: Individual research grant
-        - date_end: '2023-03-31'
-          date_start: '2022-04-01'
-          description: Integration of interactive teaching and learning modules of Matlab in PMAK 
-          icon: stiftung_hochschullehre_logo
-          organization: DigiTeLL / Stiftung Innovation in der Hochschullehre
-          organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
-          title: MatlabMakro
-          url: https://www.goethe-university-frankfurt.de/122966160/Partnerships#MatlabMakro
     design:
       columns: '2'
   - block: experience
@@ -214,6 +252,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: personal
     content:
       title: Gallery
       subtitle: ''
@@ -221,31 +260,6 @@ sections:
         {{< gallery album="work" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: collection
     id: talks
     content:
