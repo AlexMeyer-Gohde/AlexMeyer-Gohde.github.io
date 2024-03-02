@@ -218,7 +218,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="me" >}}
+        {{< gallery album="work" >}}
     design:
       columns: '1'
   - block: collection
@@ -320,7 +320,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: amalfi.jpg
+              #filename: amalfi.jpg
               filters:
                 brightness: 0.7
             position: right
@@ -332,7 +332,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: elbe.jpg
+              #filename: elbe.jpg
               filters:
                 brightness: 0.7
             position: center
@@ -344,7 +344,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: me.jpg
+              #filename: me.jpg
               filters:
                 brightness: 0.5
             position: center
