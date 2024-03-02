@@ -240,12 +240,20 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
-    id: personal
+    id: impressions
     content:
-      title: Gallery
+      title: Work
       subtitle: ''
       text: |-
         {{< gallery album="work" >}}
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: Private
+      subtitle: ''
+      text: |-
+        {{< gallery album="fun" >}}
     design:
       columns: '1'
   - block: collection
