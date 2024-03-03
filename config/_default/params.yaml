@@ -32,13 +32,13 @@ marketing:
 # Site header
 
 header:
-  navbar:
-    enable: true
-    align: l
     button:
       enable: true
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
+  navbar:
+    enable: true
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
