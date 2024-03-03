@@ -12,6 +12,11 @@ header:
   image: ''
 
 ---
-  <b>Impressum</b>
-Text
-  <b>Datenschutzerklärung</b>
+Name und Anschrift des Websitebetreibers:
+Alexander Meyer-Gohde
+Theodor-W.-Adorno-Platz 3
+60323 Frankfurt am Main
+Deutschland
+
+alexander@meyer-gohde.com
++49 69 798 34018
