@@ -33,12 +33,13 @@ marketing:
 
 header:
   navbar:
+  blox: "navbar"
     enable: true
     align: l
     button:
-    enable: true
-    text: "Get Started"
-    url: "https://hugoblox.com/templates/"
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
     show_logo: true
     show_language: false
     show_day_night: true
