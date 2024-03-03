@@ -7,8 +7,8 @@ commentable: false
 editable: false
 
 # Optional header image (relative to `static/media/` folder).
-header: Impressum
-  caption: ''
+header: 
+  caption: 'Impressum'
   image: ''
   <b>Impressum</b>
 Text
