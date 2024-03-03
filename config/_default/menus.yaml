@@ -26,7 +26,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: uploads/cv_meyer-gohde_2024_website.pdf
+    url: uploads/cv_meyer-gohde_website.pdf
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
