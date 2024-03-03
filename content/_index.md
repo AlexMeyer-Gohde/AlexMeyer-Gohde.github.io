@@ -279,7 +279,7 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: alexander@meyer-gohde.com
-#      phone: 888 888 88 88
+      phone: +49 69 798 34018
 #      appointment_url: 'https://calendly.com'
       address:
         street: Theodor-W.-Adorno-Platz 3
