@@ -104,6 +104,15 @@ sections:
           url: https://www.goethe-university-frankfurt.de/122966160/Partnerships#MatlabMakro
     design:
       columns: '2'
+  - block: collection
+    content:
+      title: Nonacademic Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: experience
     id: experience
     content:
@@ -256,15 +265,6 @@ sections:
 #        {{< gallery album="fun" >}}
 #    design:
 #      columns: '1'
-  - block: collection
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
