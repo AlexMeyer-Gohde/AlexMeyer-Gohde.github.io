@@ -7,9 +7,18 @@ commentable: false
 editable: false
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: Impressum
   caption: ''
   image: ''
+  <b>Impressum</b>
+Text
+  <b>Datenschutzerklärung</b>
+header: Datenschutzerklärung
+  caption: ''
+  image: ''
+  <b>Impressum</b>
+Text
+  <b>Datenschutzerklärung</b>
 ---
 
 Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
