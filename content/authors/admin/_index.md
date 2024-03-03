@@ -68,9 +68,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/AlexMeyer-Gohde
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-0538-4328
+ # - icon: orcid
+ #   icon_pack: fab
+ #   link: https://orcid.org/0000-0002-0538-4328
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alexander-meyer-gohde-61b46034/
