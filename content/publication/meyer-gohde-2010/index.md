@@ -4,7 +4,7 @@ title: 'Linear rational-expectations models with lagged expectations: A syntheti
 authors:
 - Alexander Meyer-Gohde
 date: '2010-05-01'
-publishDate: '2024-03-02T09:58:30.220701Z'
+publishDate: '2010-05-01'
 publication_types:
 - article-journal
 publication: '*Journal of Economic Dynamics and Control*'

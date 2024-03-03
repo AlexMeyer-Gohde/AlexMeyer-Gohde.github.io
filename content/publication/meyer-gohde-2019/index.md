@@ -3,7 +3,7 @@ title: Generalized entropy and model uncertainty
 authors:
 - Alexander Meyer-Gohde
 date: '2019-00-01'
-publishDate: '2024-03-02T09:58:30.193538Z'
+publishDate: '2019-00-01'
 publication_types:
 - article-journal
 publication: '*Journal of Economic Theory*'

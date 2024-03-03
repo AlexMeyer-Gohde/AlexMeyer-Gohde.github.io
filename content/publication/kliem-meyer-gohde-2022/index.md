@@ -4,7 +4,7 @@ authors:
 - Martin Kliem
 - Alexander Meyer‐Gohde
 date: '2022-04-01'
-publishDate: '2024-03-02T09:58:30.186482Z'
+publishDate: '2022-04-01'
 publication_types:
 - article-journal
 publication: '*Journal of Applied Econometrics*'

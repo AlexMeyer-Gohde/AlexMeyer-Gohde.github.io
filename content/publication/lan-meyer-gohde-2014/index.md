@@ -4,7 +4,7 @@ authors:
 - Hong Lan
 - Alexander Meyer-Gohde
 date: '2014-00-01'
-publishDate: '2024-03-02T09:58:30.207150Z'
+publishDate: '2014-00-01'
 publication_types:
 - article-journal
 publication: '*Journal of Economic Dynamics and Control*'

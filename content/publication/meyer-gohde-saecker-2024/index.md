@@ -4,7 +4,7 @@ authors:
 - Alexander Meyer-Gohde
 - Johanna Saecker
 date: '2024-01-01'
-publishDate: '2024-03-02T09:58:30.176890Z'
+publishDate: '2024-04-01'
 publication_types:
 - article-journal
 publication: '*Economic Modelling*'
