@@ -27,7 +27,7 @@ organizations:
     url: https://www.imfs-frankfurt.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include macroeconomics, macro-finance, econometrics, and numerical methods
 
 # Interests to show in About widget
 interests:
@@ -84,5 +84,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a professor at the Goethe University Frankfurt and the Institute for Monetary and Financial Stability (IMFS). Alongside my main specialization of macroeconomics, I have interests in financial markets and numerical methods. My research is concentrated on the methodological (numerical, theoretical, and empirical) foundations of macroeconomics and its interaction with financial markets through nonlinearities in risk and uncertainty, as well as through market frictions. I'm originally from the US and obtained my bachelor's from Colorado State University in my home state before I moved to Germany. my master's followed at the Humboldt-Unversität zu Berlin and my doctorate then at the Technische Universität Berlin. I held various positions in Hamburg, Berlin, and Potsdam before coming to Frankfurt in 2018.
+I am a professor at the Goethe University Frankfurt and the Institute for Monetary and Financial Stability (IMFS). Alongside my main specialization of macroeconomics, I have interests in financial markets and numerical methods. My research is concentrated on the methodological (numerical, theoretical, and empirical) foundations of macroeconomics and its interaction with financial markets through nonlinearities in risk and uncertainty, as well as through market frictions. I'm originally from the US and obtained my bachelor's from Colorado State University in my home state before I moved to Germany. my master's followed at the Humboldt-Unversität zu Berlin and my doctorate then at the Technische Universität Berlin. I was in Hamburg, Berlin, and Potsdam before coming to Frankfurt in 2018.
 {style="text-align: justify;"}
