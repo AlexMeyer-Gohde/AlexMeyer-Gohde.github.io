@@ -2,8 +2,8 @@
 title: Generalized entropy and model uncertainty
 authors:
 - Alexander Meyer-Gohde
-date: '2019-00-01'
-publishDate: '2019-00-01'
+date: '2019-04-01'
+publishDate: '2019-04-01'
 publication_types:
 - article-journal
 publication: '*Journal of Economic Theory*'
@@ -23,6 +23,10 @@ abstract: I provide a model uncertainty foundation to the power certainty equiva
   pricing facts are associated with a high level of model uncertainty in the long
   run risk environment of Bansal and Yaron (2004).
 tags:
-- Model uncertainty; Robust control; Recursive preferences; Equity premium puzzle;
-  Tsallis entropy
+- Model uncertainty
+- Robust control
+- Recursive preferences
+- Equity premium puzzle
+- Tsallis entropy
+- risk premium
 ---

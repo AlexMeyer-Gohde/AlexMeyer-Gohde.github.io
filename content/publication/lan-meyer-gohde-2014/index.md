@@ -3,8 +3,8 @@ title: Solvability of perturbation solutions in DSGE models
 authors:
 - Hong Lan
 - Alexander Meyer-Gohde
-date: '2014-00-01'
-publishDate: '2014-00-01'
+date: '2014-04-01'
+publishDate: '2014-04-01'
 publication_types:
 - article-journal
 publication: '*Journal of Economic Dynamics and Control*'
@@ -21,5 +21,10 @@ abstract: We prove that the undetermined Taylor series coefficients of local app
   loss of numerical accuracy in progressively higher order terms to the compounding
   of errors from the first order transition matrix.
 tags:
-- Perturbation; DSGE; Nonlinear; Sylvester equations; Solvability; Bézout׳s theorem
+- Perturbation
+- DSGE
+- Nonlinear
+- Sylvester equations
+- Solvability
+- Bézout׳s theorem
 ---

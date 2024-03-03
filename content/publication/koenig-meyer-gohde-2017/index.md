@@ -3,8 +3,8 @@ title: Decoupling nominal and real rigidities
 authors:
 - Philipp J. König
 - Alexander Meyer-Gohde
-date: '2017-00-01'
-publishDate: '2017-00-01'
+date: '2017-04-01'
+publishDate: '2017-04-01'
 publication_types:
 - article-journal
 publication: '*Economics Letters*'
@@ -15,5 +15,7 @@ abstract: We revisit Ball and Romer’s (1990) canonical model of price setting 
   to derive a unique equilibrium, we find that accounting for agents’ endogenous adjustment
   of price expectations further weakens the link between real and nominal rigidities.
 tags:
-- Global games; Menu costs; Sticky prices
+- Global games
+- Menu costs
+- Sticky prices
 ---

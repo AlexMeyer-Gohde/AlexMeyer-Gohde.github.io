@@ -20,7 +20,8 @@ abstract: The term structure of interest rates is crucial for the transmission o
   in the empirical literature.
 tags:
 - Bayesian estimation
-- DSGE model
+- DSGE
 - monetary policy
-- time-varying risk premia
+- time-varying risk
+- risk premium
 ---

@@ -3,8 +3,8 @@ title: Solving DSGE models with a nonlinear moving average
 authors:
 - Hong Lan
 - Alexander Meyer-Gohde
-date: '2013-00-01'
-publishDate: '2013-00-01'
+date: '2013-04-01'
+publishDate: '2013-04-01'
 publication_types:
 - article-journal
 publication: '*Journal of Economic Dynamics and Control*'
@@ -20,5 +20,9 @@ abstract: We propose a nonlinear infinite moving average as an alternative to th
   explicitly, examine the accuracy of the method using Euler equation tests, and compare
   with state space approximations.
 tags:
-- Perturbation; Nonlinear impulse response; DSGE; Solution methods; Volterra series
+- Perturbation
+- Nonlinear impulse response
+- DSGE
+- Solution methods
+- Volterra series
 ---

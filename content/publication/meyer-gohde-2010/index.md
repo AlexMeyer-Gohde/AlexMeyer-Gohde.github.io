@@ -19,6 +19,9 @@ abstract: This paper contains a solution and an estimation method for linear rat
   and are used to compare small-scale sticky-information and sticky-price DSGE models.
   Standard truncation methods are shown to not generally be innocuous.
 tags:
-- Lagged expectations; Linear rational-expectations models; Sticky prices; Sticky
-  information; Likelihood
+- Lagged expectations
+- DSGE 
+- Sticky prices
+- Sticky information
+- Bayesian estimation
 ---
