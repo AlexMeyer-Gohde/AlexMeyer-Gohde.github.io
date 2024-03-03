@@ -12,17 +12,15 @@ header:
   image: ''
 ---
 
-#Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
-
 Diese Datenschutzerklärung soll die Nutzer meiner Website über die Art, den Umfang und den Zweck der Erhebung und Verwendung personenbezogener Daten durch den Websitebetreiber informieren.
 
-Name und Anschrift des Websitebetreibers:
-Alexander Meyer-Gohde
-Theodor-W.-Adorno-Platz 3
-60323 Frankfurt am Main
-Deutschland
+Name und Anschrift des Websitebetreibers:<br>
+Alexander Meyer-Gohde<br>
+Theodor-W.-Adorno-Platz 3<br>
+60323 Frankfurt am Main<br>
+Deutschland<br>
 
-alexander@meyer-gohde.com
+alexander@meyer-gohde.com<br>
 +49 69 798 34018
 
 Ich nehme Ihren Datenschutz sehr ernst und behandelt Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da durch neue Technologien und die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung vorgenommen werden können, wird Ihnen empfohlen, sich die Datenschutzerklärung in regelmäßigen Abständen wieder durchzulesen.

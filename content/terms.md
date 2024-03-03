@@ -12,11 +12,11 @@ header:
   image: ''
 
 ---
-Name und Anschrift des Websitebetreibers:
-Alexander Meyer-Gohde
-Theodor-W.-Adorno-Platz 3
-60323 Frankfurt am Main
-Deutschland
+Name und Anschrift des Websitebetreibers:<br>
+Alexander Meyer-Gohde<br>
+Theodor-W.-Adorno-Platz 3<br>
+60323 Frankfurt am Main<br>
+Deutschland<br>
 
-alexander@meyer-gohde.com
+alexander@meyer-gohde.com<br>
 +49 69 798 34018
