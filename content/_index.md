@@ -248,14 +248,14 @@ sections:
         {{< gallery album="work" >}}
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: Private
-      subtitle: ''
-      text: |-
-        {{< gallery album="fun" >}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: Private
+#      subtitle: ''
+#      text: |-
+#        {{< gallery album="fun" >}}
+#    design:
+#      columns: '1'
   - block: collection
     content:
       title: Recent & Upcoming Talks
