@@ -33,7 +33,6 @@ marketing:
 
 header:
   navbar:
-  blox: "navbar"
     enable: true
     align: l
     button:
