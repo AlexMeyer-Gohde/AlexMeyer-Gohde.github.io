@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = ''
 ---
 
 The course provides an introduction to advanced macroeconomics at the undergraduate level, serving as a bridge between intermediate-level macroeconomics (covered in BMAK) and graduate-level macroeconomics (covered in Fundamentals of Macroeconomics or PhD Macro). It is intended for undergraduates who have successfully completed BMAK and BMIK and who are now ready to study advanced topics in macroeconomics in greater analytical detail. The course objective is to deepen our understanding of fundamental macroeconomic problems and appropriate policies. After completing this course, students should be able to understand newspaper articles on stabilization and growth policies. Highly successful students will be able to explain these articles to non-economists. Top students will be able to spot mistakes and to debate opinions expressed in the press.
