@@ -224,7 +224,7 @@ sections:
       columns: '2'
   - block: portfolio
     content:
-      title: Projects
+      title: Teaching
       filters:
         folders:
           - project
@@ -238,8 +238,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Bachelor
+          tag: Bachelor
         - name: Other
           tag: Demo
     design:
