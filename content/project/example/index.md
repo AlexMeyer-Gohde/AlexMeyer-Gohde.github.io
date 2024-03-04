@@ -1,6 +1,6 @@
 ---
 title: Macroeconomics 2 (PMAK)
-summary: An example of using the in-built project page.
+summary: Introduction to advanced macroeconomics at the undergraduate level
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
