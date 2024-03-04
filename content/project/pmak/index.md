@@ -12,15 +12,15 @@ external_link: ''
 #  caption: Photo from the course's textbook: Introducing Advanced Macroeconomics: Growth and Business Cycles, 3rd Edition, McGraw-Hill Publishing #Company, 2023, by Peter Birch Sørensen and Hans Jørgen Whitta-Jacobsen
 #  focal_point: Smart
 
-links:
+#links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
