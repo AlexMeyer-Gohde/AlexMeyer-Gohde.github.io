@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Macroeconomics 2 (PMAK)
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
@@ -30,7 +30,7 @@ url_video: ''
 slides: example
 ---
 
-Course Description: The language of the course is English. The course provides an introduction to advanced macroeconomics at the undergraduate level, serving as a bridge between intermediate-level macroeconomics (covered in BMAK) and graduate-level macroeconomics (covered in Fundamentals of Macroeconomics or PhD Macro). It is intended for undergraduates who have successfully completed BMAK and BMIK and who are now ready to study advanced topics in macroeconomics in greater analytical detail. The course objective is to deepen our understanding of fundamental macroeconomic problems and appropriate policies. After completing this course, students should be able to understand newspaper articles on stabilization and growth policies. Highly successful students will be able to explain these articles to non-economists. Top students will be able to spot mistakes and to debate opinions expressed in the press.
+The course provides an introduction to advanced macroeconomics at the undergraduate level, serving as a bridge between intermediate-level macroeconomics (covered in BMAK) and graduate-level macroeconomics (covered in Fundamentals of Macroeconomics or PhD Macro). It is intended for undergraduates who have successfully completed BMAK and BMIK and who are now ready to study advanced topics in macroeconomics in greater analytical detail. The course objective is to deepen our understanding of fundamental macroeconomic problems and appropriate policies. After completing this course, students should be able to understand newspaper articles on stabilization and growth policies. Highly successful students will be able to explain these articles to non-economists. Top students will be able to spot mistakes and to debate opinions expressed in the press.
 
 Although the emphasis is on presenting the intuition behind macro theory, we will be using a combination of figures and mathematics to derive results, with more emphasis on mathematics and formal analysis than in BMAK. Knowledge of functions, derivatives, and constrained optimization, along with basic statistics is assumed.
 
