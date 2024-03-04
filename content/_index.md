@@ -299,8 +299,7 @@ sections:
  #         captcha: false
  #   design:
  #     columns: '2'
-{{/*
-  - block: slider
+- block: slider
     content:
       slides:
         - title: 👋 Welcome to the group
@@ -348,5 +347,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-       */}}
 ---
