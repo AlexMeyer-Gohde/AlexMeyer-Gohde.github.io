@@ -238,8 +238,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Bachelor
+          tag: Bachelor
         - name: Other
           tag: Demo
     design:
