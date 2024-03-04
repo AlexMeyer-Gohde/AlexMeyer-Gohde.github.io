@@ -34,7 +34,23 @@ The course provides an introduction to advanced macroeconomics at the undergradu
 
 Although the emphasis is on presenting the intuition behind macro theory, we will be using a combination of figures and mathematics to derive results, with more emphasis on mathematics and formal analysis than in BMAK. Knowledge of functions, derivatives, and constrained optimization, along with basic statistics is assumed.
 
-Textbook: Introducing Advanced Macroeconomics: Growth and Business Cycles
+Textbook
+Introducing Advanced Macroeconomics: Growth and Business Cycles
 3rd Edition, McGraw-Hill Publishing Company, 2023
 By Peter Birch Sørensen and Hans Jørgen Whitta-Jacobsen
 
+Course Outline
+Part I: Economic Growth
+1. Some facts about prosperity and growth (ch. 2)
+2. Capital accumulation and growth: The basic Solow model (ch. 3)
+3. Technological progress and growth: The general Solow model (ch. 5)
+4. Growth accounting
+5. R&D-based models of endogenous growth (ch. 9)
+
+Part II: Business Cycles
+6. Some facts about business cycles (ch. 13)
+7. Consumption (ch. 16)
+8. Investment (ch. 15)
+9. Monetary policy and aggregate demand (ch. 17)
+10. Inflation, unemployment and aggregate supply (ch. 18)
+11. Explaining business cycles (ch. 19)
