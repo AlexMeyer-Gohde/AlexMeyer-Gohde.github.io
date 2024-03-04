@@ -240,8 +240,10 @@ sections:
           tag: '*'
         - name: Bachelor
           tag: Bachelor
-        - name: Other
-          tag: Demo
+        - name: Master
+          tag: Master
+        - name: PhD
+          tag: PhD
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
