@@ -251,7 +251,7 @@ sections:
   - block: markdown
     id: impressions
     content:
-      title: Work
+      title: Work Impressions
       subtitle: ''
       text: |-
         {{< gallery album="work" >}}
