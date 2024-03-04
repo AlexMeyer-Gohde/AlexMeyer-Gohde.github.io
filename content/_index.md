@@ -244,6 +244,8 @@ sections:
   - block: tag_cloud
     content:
       title: Popular Topics
+      exclude_tags:
+      - Bachelor 
     design:
       columns: '2'
   - block: contact
