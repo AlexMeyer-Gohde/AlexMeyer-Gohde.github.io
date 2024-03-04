@@ -13,7 +13,7 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 30
-  - name: Grants
+  - name: Activities
     url: '#activities'
     weight: 40
   - name: Experience
