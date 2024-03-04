@@ -299,7 +299,7 @@ sections:
  #         captcha: false
  #   design:
  #     columns: '2'
- <!--
+{{/*
   - block: slider
     content:
       slides:
@@ -348,5 +348,5 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-      -->
+       */}}
 ---
