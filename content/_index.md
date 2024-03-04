@@ -244,8 +244,8 @@ sections:
   - block: tag_cloud
     content:
       title: Popular Topics
-      #    exclude_tags:
-#      - preface 
+          exclude_tags:
+      tag: Bachelor
 # taxonomy: tags
     design:
       columns: '2'
