@@ -2,7 +2,7 @@
 title: 'Linear rational-expectations models with lagged expectations: A synthetic
   method'
 authors:
-- Alexander Meyer-Gohde
+- admin
 date: '2010-05-01'
 publishDate: '2010-05-01'
 publication_types:

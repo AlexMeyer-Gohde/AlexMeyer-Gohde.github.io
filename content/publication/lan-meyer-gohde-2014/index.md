@@ -2,7 +2,7 @@
 title: Solvability of perturbation solutions in DSGE models
 authors:
 - Hong Lan
-- Alexander Meyer-Gohde
+- admin
 date: '2014-04-01'
 publishDate: '2014-04-01'
 publication_types:

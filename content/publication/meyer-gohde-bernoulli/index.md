@@ -1,7 +1,7 @@
 ---
 title: Solving Linear DSGE Models with Bernoulli Methods
 authors:
-- Alexander Meyer-Gohde
+- admin
 date: '2023-04-01'
 publishDate: '2023-04-01'
 publication_types:

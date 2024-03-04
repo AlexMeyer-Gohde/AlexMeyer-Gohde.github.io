@@ -2,7 +2,7 @@
 title: Solving DSGE models with a nonlinear moving average
 authors:
 - Hong Lan
-- Alexander Meyer-Gohde
+- admin
 date: '2013-04-01'
 publishDate: '2013-04-01'
 publication_types:

@@ -1,7 +1,7 @@
 ---
 title: Solving linear DSGE models with Newton methods
 authors:
-- Alexander Meyer-Gohde
+- admin
 - Johanna Saecker
 date: '2024-01-01'
 publishDate: '2024-04-01'

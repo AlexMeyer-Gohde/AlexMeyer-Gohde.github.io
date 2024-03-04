@@ -2,7 +2,7 @@
 title: Decoupling nominal and real rigidities
 authors:
 - Philipp J. König
-- Alexander Meyer-Gohde
+- admin
 date: '2017-04-01'
 publishDate: '2017-04-01'
 publication_types:

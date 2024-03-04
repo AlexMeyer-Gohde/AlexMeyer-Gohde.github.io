@@ -1,7 +1,7 @@
 ---
 title: Generalized entropy and model uncertainty
 authors:
-- Alexander Meyer-Gohde
+- admin
 date: '2019-04-01'
 publishDate: '2019-04-01'
 publication_types:
