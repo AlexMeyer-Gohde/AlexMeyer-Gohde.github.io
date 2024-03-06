@@ -7,7 +7,7 @@ date: '2024-03-01'
 publishDate: '2024-03-01'
 publication_types:
 - article
-publication: ''
+publication: ""
 doi: ''
 abstract: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite  inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority's concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves.
 
@@ -19,7 +19,7 @@ tags:
 - Imperfect Common Knowledge
 - Inattentiveness
 - Frequency Domain
-- z-Transform
+- z Transform
 - Natural Rate Hypothesis
 
 # Display this page in the Featured widget?
