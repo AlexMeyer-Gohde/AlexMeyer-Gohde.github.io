@@ -1,32 +1,28 @@
 ---
-title: Inattentiveness and the Taylor Principle
+title: Solving Linear DSGE Models with Structure Preserving Doubling Methods
 authors:
+- Johannes Huber
 - admin
-- Mary Tzaawa-Krenzler
+- Johanna Saecker
 date: '2024-03-01'
 publishDate: '2024-03-01'
 publication_types:
-- article
+- working paper(
 publication: ""
 doi: ''
-abstract: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite  inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority's concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves. <br>An earlier version was entitled ``Sticky Information and the Taylor Principle''.
+abstract: This paper applies structure preserving doubling methods to solve the matrix quadratic underlying the recursive solution of linear DSGE models. We present and compare two structure preserving doubling algorithms (SDA) to other competing methods -- the QZ method, a Newton algorithm, and an iterative Bernoulli  approach -- as well as the related cyclic and logarithmic reduction algorithms. Our comparison is completed using nearly 100 different models from the Macroeconomic Model Data Base (MMB) and different parameterizations of the monetary policy rule in the medium scale New Keynesian model of Smets and Wouters (2007) iteratively. We find that both (SDA) perform very favorably relative to QZ, with generally more accurate solutions computed in less time. While we collect theoretical convergence results that promise quadratic convergence rates to a unique stable solution, the algorithms may fail to converge when there is a breakdown due to singularity of the coefficient matrices in the recursion. One of the proposed algorithms can overcome this problem by an appropriate (re)initialization. This \ac{SDA} also performs particular well in refining solutions of different methods or from nearby parameterizations.
 tags:
-- Determinacy
-- Taylor Rule
-- Sticky Information
-- Imperfect Common Knowledge
-- Inattentiveness
-- Frequency Domain
-- z Transform
-- Natural Rate Hypothesis
+- Numerical accuracy
+- DSGE
+- Solution methods
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 links:
-- name: IMFS Working Paper Series (earlier version)
-  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=449&cHash=088bc7bab3b7c61bdb014afe2f3be6e9
-url_pdf: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiGwfAA5bEKM1vcizn1aNF/inattention_determinacy.pdf
+- name: IMFS Working Paper Series
+  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=461&cHash=f53244e0345a27419a9d40a3af98c02f
+url_pdf: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiKYrFgTkN2YkgmiWRNbpW/doubling_DSGE.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
