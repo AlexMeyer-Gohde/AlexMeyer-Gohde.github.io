@@ -3,7 +3,6 @@ title: Estimation and forecasting using mixed-frequency DSGE models
 authors:
 - admin
 - Ekaterina Shabalina
-
 date: '2022-04-01'
 publishDate: '2022-04-01'
 publication_types:
