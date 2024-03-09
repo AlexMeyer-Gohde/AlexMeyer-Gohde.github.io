@@ -150,7 +150,7 @@ sections:
           company: University of Hamburg
           company_url: 'https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/lucke.html'
           company_logo: UHH
-          location: Frankfurt, Germany
+          location: Hamburg, Germany
           date_start: '2014-10-01'
           date_end: '2018-03-31'
           description: |2-
