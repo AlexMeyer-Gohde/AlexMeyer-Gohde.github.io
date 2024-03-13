@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: Konjunkturaussichten - Eurozone und Deutschland
 
-event: Hugo Blox Builder Conference
+event: IHK Darmstadt
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
@@ -17,9 +17,9 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2023-06-12T13:00:00Z'
+date_end: '2023-06-12T13:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,14 +31,10 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.ifo.de/fakten/2023-04-05/gemeinschaftsdiagnose-fruehjahr-2023-inflation-im-kern-hoch)'
+  caption: 'Image credit: [**ifo Institut GD 2023**](https://www.ifo.de/fakten/2023-04-05/gemeinschaftsdiagnose-fruehjahr-2023-inflation-im-kern-hoch)'
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: https://www.dropbox.com/scl/fi/3wqhptwh32b234fm06wsi/meyer-gohde_ihk_darmstadt_2023.pdf?rlkey=hzakz1vte90vy9oxh767qazp9&dl=0
 url_pdf: ''
 url_slides: ''
