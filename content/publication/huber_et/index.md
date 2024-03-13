@@ -7,7 +7,7 @@ authors:
 date: '2024-03-01'
 publishDate: '2024-03-01'
 publication_types:
-- working paper(
+- working paper
 publication: ""
 doi: ''
 abstract: This paper applies structure preserving doubling methods to solve the matrix quadratic underlying the recursive solution of linear DSGE models. We present and compare two structure preserving doubling algorithms (SDA) to other competing methods -- the QZ method, a Newton algorithm, and an iterative Bernoulli  approach -- as well as the related cyclic and logarithmic reduction algorithms. Our comparison is completed using nearly 100 different models from the Macroeconomic Model Data Base (MMB) and different parameterizations of the monetary policy rule in the medium scale New Keynesian model of Smets and Wouters (2007) iteratively. We find that both (SDA) perform very favorably relative to QZ, with generally more accurate solutions computed in less time. While we collect theoretical convergence results that promise quadratic convergence rates to a unique stable solution, the algorithms may fail to converge when there is a breakdown due to singularity of the coefficient matrices in the recursion. One of the proposed algorithms can overcome this problem by an appropriate (re)initialization. This \ac{SDA} also performs particular well in refining solutions of different methods or from nearby parameterizations.
