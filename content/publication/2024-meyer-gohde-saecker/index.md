@@ -3,8 +3,8 @@ title: Solving linear DSGE models with Newton methods
 authors:
 - admin
 - Johanna Saecker
-date: '2024-01-01'
-publishDate: '2024-04-01'
+date: '2024-04-01'
+publishDate: '2024-01-01'
 publication_types:
 - article-journal
 publication: '*Economic Modelling*'
