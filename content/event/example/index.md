@@ -1,25 +1,24 @@
 ---
 title: Konjunkturaussichten - Eurozone und Deutschland
 
-event: IHK Darmstadt
-event_url: https://example.org
+event: Lautracher Konjunkturrunde
+event_url: ''
 
-location: Hugo Blox Builder HQ
+location: IHK Darmstadt
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Rheinstraße 89
+  city: Darmstadt
+  postcode: '64295'
+  country: Germany
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Current business cycle developments in Germany and the Euro area
+abstract: Current business cycle developments in Germany and the Euro area, summarized from various research institutes and government agencies for the IHK Hessen members
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-12T13:00:00Z'
+date: '2023-06-12T10:00:00Z'
 date_end: '2023-06-12T13:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -28,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**ifo Institut GD 2023**](https://www.ifo.de/fakten/2023-04-05/gemeinschaftsdiagnose-fruehjahr-2023-inflation-im-kern-hoch)'
