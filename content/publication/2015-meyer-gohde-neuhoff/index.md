@@ -17,5 +17,5 @@ tags:
 - Bayesian estimation
 
 links:
-url_code: 'https://github.com/AlexMeyer-Gohde/Bayesian-VARMA-Estimation'
+url_code: https://github.com/AlexMeyer-Gohde/Solving-and-estimating-DSGE-VARMA
 ---
