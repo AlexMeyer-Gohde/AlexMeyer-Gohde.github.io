@@ -270,9 +270,9 @@ sections:
       directions: House of Finance, South side, 4th Floor
       office_hours: By appointment
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '50.12717'
-        longitude: '8.66525'  
+#      coordinates:
+#        latitude: '50.12717'
+#        longitude: '8.66525'  
       contact_links:
         - icon: linkedin
           name: LinkedIn
