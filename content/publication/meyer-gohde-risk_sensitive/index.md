@@ -22,7 +22,7 @@ links:
 - name: SFB 649 Working Paper (earlier version))
   url: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2014-034.pdf
 url_pdf: https://www.dropbox.com/scl/fi/2yz5avrycmxjxad2z026r/risk-sensitive_linear_approx_2018.pdf?rlkey=yzlqguydfzkk58sak2fbkc0mu&dl=0
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: https://github.com/AlexMeyer-Gohde/Risk-Sensitive-Linear-Approximations
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
