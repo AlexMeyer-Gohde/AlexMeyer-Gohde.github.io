@@ -15,4 +15,7 @@ tags:
 - VARMA
 - Filter
 - Bayesian estimation
+
+links:
+url_code: 'https://github.com/AlexMeyer-Gohde/Bayesian-VARMA-Estimation'
 ---
