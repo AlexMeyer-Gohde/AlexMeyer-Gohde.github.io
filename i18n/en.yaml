@@ -12,6 +12,15 @@
 - id: back_to_top
   translation: Back to top
 
+- id: home
+  translation: Home
+
+- id: close
+  translation: Close
+
+- id: languages
+  translation: Languages
+
 # General
 
 - id: related
@@ -27,10 +36,24 @@
   translation: Next
 
 - id: figure
-  translation: "Figure %d:"
+  translation: 'Figure %d:'
 
 - id: edit_page
   translation: Edit this page
+
+# Themes
+
+- id: theme_selector
+  translation: Display preferences
+
+- id: theme_light
+  translation: Light
+
+- id: theme_dark
+  translation: Dark
+
+- id: theme_auto
+  translation: Automatic
 
 # Buttons
 
@@ -67,6 +90,9 @@
 - id: btn_copy
   translation: Copy
 
+- id: btn_copied
+  translation: Copied
+
 - id: btn_download
   translation: Download
 
@@ -100,7 +126,7 @@
   translation: See all posts
 
 - id: more_talks
-  translation: See all talks
+  translation: See all events
 
 - id: more_publications
   translation: See all publications
@@ -116,13 +142,16 @@
 - id: contact_message
   translation: Message
 
+- id: contact_attachment
+  translation: Attach file
+
 - id: contact_send
   translation: Send
 
 - id: book_appointment
   translation: Book an appointment
 
-# Publication/Talk details
+# Publication/Event details
 
 - id: abstract
   translation: Abstract
@@ -145,16 +174,13 @@
 - id: location
   translation: Location
 
-- id: pub_uncat
-  translation: Uncategorized
-
-- id: pub_conf
+- id: pub_paper_conference
   translation: Conference paper
 
-- id: pub_journal
+- id: pub_article_journal
   translation: Journal article
 
-- id: pub_preprint
+- id: pub_article
   translation: Working Paper
 
 - id: pub_report
@@ -163,7 +189,7 @@
 - id: pub_book
   translation: Book
 
-- id: pub_book_section
+- id: pub_chapter
   translation: Book section
 
 - id: pub_thesis
@@ -172,15 +198,12 @@
 - id: pub_patent
   translation: Patent
 
-- id: pub_working
-  translation: Working Paper
-
 # Project details
 
 - id: open_project_site
   translation: Go to Project Site
 
-# Default titles for archive pages
+# Content types for default archive page titles and search results
 
 - id: posts
   translation: Posts
@@ -189,10 +212,16 @@
   translation: Publications
 
 - id: talks
-  translation: Talks
+  translation: Events
 
 - id: projects
   translation: Projects
+
+- id: slides
+  translation: Slides
+
+- id: authors
+  translation: Authors
 
 # Search
 
@@ -207,6 +236,9 @@
 
 - id: search_no_results
   translation: No results found
+
+- id: search_common_queries
+  translation: Common searches
 
 # Error 404
 
@@ -226,3 +258,22 @@
 
 - id: cookie_learn
   translation: Learn more
+
+# Published with
+
+- id: published_with
+  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+
+# Feedback widget
+
+- id: feedback_widget_title
+  translation: Feedback
+
+- id: feedback_widget_question
+  translation: Was this page helpful?
+
+- id: feedback_widget_answer_positive
+  translation: 😍 Yes
+
+- id: feedback_widget_answer_negative
+  translation: 😡 No

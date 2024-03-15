@@ -5,7 +5,7 @@ authors:
 date: '2023-04-01'
 publishDate: '2023-04-01'
 publication_types:
-- article-preprint
+- article
 publication: '*IMFS Working Paper Series'
 doi: ''
 abstract: This paper presents and compares Bernoulli iterative approaches for solving linear DSGE models.  The methods are compared using nearly 100 different models from the Macroeconomic Model Data Base (MMB) and different parameterizations of the monetary policy rule in the medium-scale New Keynesian model of Smets and Wouters (2007) iteratively. I find that Bernoulli methods compare favorably in solving DSGE models to the QZ, providing similar accuracy as measured by the forward error of the solution at a comparable computation burden. The method can guarantee convergence to a particular, e.g., unique stable, solution and can be combined with other iterative methods, such as the Newton method, lending themselves especially to refining solutions.
