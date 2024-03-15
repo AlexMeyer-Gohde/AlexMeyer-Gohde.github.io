@@ -16,7 +16,7 @@ tags:
 - Nonlinear
 - Recursive preferences
 - Stochastic volatility
-- Aasset pricing
+- Asset pricing
 
 
 links:
