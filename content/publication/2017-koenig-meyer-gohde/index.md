@@ -18,4 +18,6 @@ tags:
 - Global games
 - Menu costs
 - Sticky prices
+links:
+url_slides: https://www.dropbox.com/scl/fi/4c7kg3wqxmzrixf1mnaog/dynare_2016.pdf?rlkey=mtam4jnggq448xugss8u98ety&dl=0
 ---
