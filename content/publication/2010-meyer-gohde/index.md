@@ -24,4 +24,5 @@ tags:
 - Sticky prices
 - Sticky information
 - Bayesian estimation
+share: false
 ---
