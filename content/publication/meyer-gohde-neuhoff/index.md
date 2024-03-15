@@ -24,4 +24,5 @@ url_pdf: https://www.dropbox.com/scl/fi/74d9l1rpcrj6p0n5gtbha/dsge_varma.pdf?rlk
 url_code: 'https://github.com/AlexMeyer-Gohde/Bayesian-VARMA-Estimation'
 url_slides: https://www.dropbox.com/scl/fi/w9voc5ifzkvo1io8dgheb/Dynare_2015.pdf?rlkey=6yuy1qdp6um88exqibnky3ie5&dl=1
 
+share: false
 ---

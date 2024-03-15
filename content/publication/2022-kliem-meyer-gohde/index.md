@@ -26,4 +26,5 @@ tags:
 - risk premium
 # Display this page in the Featured widget?
 featured: true
+share: false
 ---

@@ -23,4 +23,5 @@ url_pdf: https://www.dropbox.com/scl/fi/5dv2gwem5wa7qqaalso8u/bernoulli_DSGE.pdf
 url_code: https://github.com/AlexMeyer-Gohde/Linear-DSGE-with-Bernoulli
 url_slides: https://www.dropbox.com/scl/fi/7k1rzjqxx95zxb2lo6etl/meyer-gohde_esem_eea_2023.pdf?rlkey=yfjwyg5pau60xs56gitdo36bh&dl=1
 
+share: false
 ---

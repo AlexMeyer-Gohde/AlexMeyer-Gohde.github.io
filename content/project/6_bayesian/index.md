@@ -66,3 +66,5 @@ Part III: Bayesian Analysis of DSGE Models
 8. Dynamic Stochastic General Equilibrium (DSGE)
 9. Bayesian Estimation of DSGEs
 10. Bayesian Analysis of DSGEs
+
+share: false

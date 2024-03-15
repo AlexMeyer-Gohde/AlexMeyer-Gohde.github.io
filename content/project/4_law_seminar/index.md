@@ -50,3 +50,5 @@ Economic and Legal Aspects of Virtual Currencies
 The digital transformation is influencing the structures of the financial sector through technical innovations, but above all through data-driven business models and changed social practices, such as payment habits. Examples of this transformation include the increasing proliferation of different forms of cryptocurrencies, and, on the other hand, considerations by central banks to issue digital central bank money. This transformation is sometimes characterized as a change in the nature of money. 
 
 The interdisciplinary seminar aims to examine various facets of this transformation and the associated challenges for monetary policy as well as for supervision from an economic and legal perspective. 
+
+share: false

@@ -36,9 +36,7 @@ image:
 links:
 - name: Flyer
   url: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiFFvoSx1FMLzArrP7sYE2/bsp-flyer-vortragsreihe.pdf
-url_code: ''
-url_pdf: ''
 url_slides: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiNWMrETuKGdtxgvE7Qsph/meyer-gohde.pdf
-url_video: ''
 
+share: false
 ---

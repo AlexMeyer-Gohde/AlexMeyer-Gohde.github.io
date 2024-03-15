@@ -24,4 +24,5 @@ url_pdf: https://www.dropbox.com/scl/fi/ozj415oai9agr1ydsezn8/DSGE_pruning.pdf?r
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_slides: ''
 
+share: false
 ---

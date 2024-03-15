@@ -32,4 +32,5 @@ url_slides: https://www.dropbox.com/scl/fi/zwgdn1k82vvh343mro858/meyer-gohde_snd
 #url_source: '#'
 #url_video: '#'
 
+share: false
 ---

@@ -39,6 +39,7 @@ url_pdf: ''
 url_slides: https://www.dropbox.com/scl/fi/3wqhptwh32b234fm06wsi/meyer-gohde_ihk_darmstadt_2023.pdf?rlkey=hzakz1vte90vy9oxh767qazp9&dl=0
 url_video: ''
 
+share: false
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

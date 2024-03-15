@@ -30,4 +30,5 @@ url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_source: '#'
 #url_video: '#'
 
+share: false
 ---

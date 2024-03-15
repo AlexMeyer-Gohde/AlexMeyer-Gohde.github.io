@@ -27,4 +27,5 @@ tags:
 - Sylvester equations
 - Solvability
 - Bézout׳s theorem
+share: false
 ---

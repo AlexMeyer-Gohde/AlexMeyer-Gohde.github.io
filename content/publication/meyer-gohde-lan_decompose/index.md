@@ -26,4 +26,5 @@ url_pdf: https://www.dropbox.com/scl/fi/7dh1lgjon2p2xygwgbmx0/moments_decomposit
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_slides: ''
 
+share: false
 ---

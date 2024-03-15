@@ -29,4 +29,5 @@ tags:
 - Equity premium puzzle
 - Tsallis entropy
 - risk premium
+share: false
 ---

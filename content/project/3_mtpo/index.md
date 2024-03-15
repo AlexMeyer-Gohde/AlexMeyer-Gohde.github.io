@@ -71,3 +71,5 @@ Additional reading:	Woodford (2001)
 Concepts/techniques: 	Time consistency
 Main reading:	Galí (2008), ch. 5
 Additional reading:	Barro and Gordon (1983)
+
+share: false
