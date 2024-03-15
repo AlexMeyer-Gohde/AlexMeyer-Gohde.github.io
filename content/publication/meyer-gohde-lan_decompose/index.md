@@ -1,27 +1,28 @@
 ---
-title: Estimation and forecasting using mixed-frequency DSGE models
+title:  Decomposing Risk in Dynamic Stochastic General Equilibrium
 authors:
+- Hong Lan
 - admin
-- Ekaterina Shabalina
-date: '2022-04-01'
-publishDate: '2022-04-01'
+date: '2024-03-01'
+publishDate: '2024-03-01'
 publication_types:
 - article
-publication: 'IMFS Working Paper Series'
+publication: 'Working Paper'
 doi: ''
-abstract: In this paper, we propose a new method to forecast macroeconomic variables that combines two existing approaches to mixed-frequency data in DSGE models. The first existing approach estimates the DSGE model in a quarterly frequency and uses higher frequency auxiliary data only for forecasting (see Giannone, Monti and Reichlin (2016)). The second method transforms a quarterly state space into a monthly frequency and applies, e.g., the Kalman filter when faced missing observations (see Foroni and Marcellino (2014)). Our algorithm combines the advantages of these two existing approaches, using the information from monthly auxiliary variables to inform in-between quarter DSGE estimates and forecasts. We compare our new method with the existing methods using simulated data from the textbook 3-equation New Keynesian model (see, e.g., Galí (2008)) and real-world data with the Smets and Wouters (2007) model. With the simulated data, our new method outperforms all other methods, including forecasts from the standard quarterly model. With real world data, incorporating auxiliary variables as in our method substantially decreases forecasting errors for recessions, but casting the model in a monthly frequency delivers better forecasts in normal times.
+abstract: We analyze the theoretical moments of a nonlinear approximation to real business cycle model with stochastic volatility and recursive preferences. We find that the conditional heteroskedasticity of stochastic volatility operationalizes a time-varying risk adjustment channel that induces variability in conditional asset pricing measures and assigns a substantial portion of the variance of macroeconomic variables to variations in precautionary behavior, both while leaving its ability to match key macroeconomic and asset pricing facts untouched. We calculate the theoretical moments directly and decomposes these moments into contributions from shifts in the distribution of future shocks (i.e., risk) and from realized shocks and differing orders of approximation, enabling us to identify the common channel through which stochastic volatility in isolation operates and through which conditional asset pricing measures vary over time. Under frictional investment and varying capital utilization, output drops in response to an increase in risk, but the contributions to the variance of macroeconomic variables from risk becomes negligible.
 tags:
-- Mixed-frequency data
+- Perturbation
 - DSGE
-- Forecasting
-- Estimation
-- Temporal aggregation
+- Nonlinear
+- Recursive preferences
+- Stochastic volatility
+- Aasset pricing
 
 
 links:
-- name: IMFS Working Paper Series
-  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=420&cHash=9017cf8f38174bf163a79e7516d9228f
-url_pdf: '#'
+- name: SFB Working Paper Series (earlier version)
+  url: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2013-022.pdf
+url_pdf: https://www.dropbox.com/scl/fi/7dh1lgjon2p2xygwgbmx0/moments_decomposition.pdf?rlkey=xnn84ce48h14f6s85luy6e39r&dl=0
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
