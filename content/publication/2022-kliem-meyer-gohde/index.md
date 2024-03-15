@@ -24,4 +24,6 @@ tags:
 - monetary policy
 - time-varying risk
 - risk premium
+# Display this page in the Featured widget?
+featured: true
 ---
