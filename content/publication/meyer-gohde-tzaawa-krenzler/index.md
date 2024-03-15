@@ -27,12 +27,12 @@ links:
 - name: IMFS Working Paper Series (earlier version)
   url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=449&cHash=088bc7bab3b7c61bdb014afe2f3be6e9
 url_pdf: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiGwfAA5bEKM1vcizn1aNF/inattention_determinacy.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+url_poster: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiKEvpJzhGJZGKSHrvMtFJ/poster_mary.pdf
+#url_project: ''
+url_slides: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiAR8YbRvb9fi4bm5s5QRc/Frequency_Domain_Presentation.pdf
+#url_source: '#'
+#url_video: '#'
 
 ---
