@@ -17,6 +17,8 @@ tags:
 - Backward error
 - Forward error
 
+# Display this page in the Featured widget?
+featured: true
 
 links:
 - name: IMFS Working Paper Series
