@@ -31,7 +31,7 @@ url_pdf: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiGwfAA5bEKM1vcizn1aNF/ina
 #url_dataset: '#'
 url_poster: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiKEvpJzhGJZGKSHrvMtFJ/poster_mary.pdf
 #url_project: ''
-url_slides: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiAR8YbRvb9fi4bm5s5QRc/Frequency_Domain_Presentation.pdf
+url_slides: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiAR8YbRvb9fi4bm5s5QRc/Frequency_Domain_Presentation.pdf
 #url_source: '#'
 #url_video: '#'
 
