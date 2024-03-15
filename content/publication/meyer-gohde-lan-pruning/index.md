@@ -19,9 +19,9 @@ tags:
 
 
 links:
-- name: IMFS Working Paper Series
-  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=420&cHash=9017cf8f38174bf163a79e7516d9228f
-url_pdf: '#'
+#- name: IMFS Working Paper Series
+#  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=420&cHash=9017cf8f38174bf163a79e7516d9228f
+url_pdf: https://www.dropbox.com/scl/fi/ozj415oai9agr1ydsezn8/DSGE_pruning.pdf?rlkey=3nfdnpd3zw04hpwxa7r3p3j7a&dl=0
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
