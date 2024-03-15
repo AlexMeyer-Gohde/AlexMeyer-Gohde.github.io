@@ -20,13 +20,8 @@ tags:
 links:
 - name: SFB Working Paper Series (earlier version)
   url: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2013-024.pdf
-url_pdf: https://www.dropbox.com/scl/fi/ozj415oai9agr1ydsezn8/DSGE_pruning.pdf?rlkey=3nfdnpd3zw04hpwxa7r3p3j7a&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/ozj415oai9agr1ydsezn8/DSGE_pruning.pdf?rlkey=3nfdnpd3zw04hpwxa7r3p3j7a&dl=1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---

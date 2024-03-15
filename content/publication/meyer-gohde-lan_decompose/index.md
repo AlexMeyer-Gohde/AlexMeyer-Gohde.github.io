@@ -22,13 +22,8 @@ tags:
 links:
 - name: SFB Working Paper Series (earlier version)
   url: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2013-022.pdf
-url_pdf: https://www.dropbox.com/scl/fi/7dh1lgjon2p2xygwgbmx0/moments_decomposition.pdf?rlkey=xnn84ce48h14f6s85luy6e39r&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/7dh1lgjon2p2xygwgbmx0/moments_decomposition.pdf?rlkey=xnn84ce48h14f6s85luy6e39r&dl=1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---
