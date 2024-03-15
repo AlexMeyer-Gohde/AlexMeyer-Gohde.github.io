@@ -21,13 +21,13 @@ tags:
 links:
 - name: IMFS Working Paper Series
   url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=457&cHash=625ff84c3080b3e72cee7c1eec6f2a2d
-url_pdf: https://www.dropbox.com/scl/fi/x1twzs862gjehu5c0kmhx/backward_error_conditioning_linear_dsge.pdf?rlkey=ep7dza9kh24rl8gumgtrrura9&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/x1twzs862gjehu5c0kmhx/backward_error_conditioning_linear_dsge.pdf?rlkey=ep7dza9kh24rl8gumgtrrura9&dl=1
 url_code: https://github.com/AlexMeyer-Gohde/Numerical-Stability-Analysis-of-Linear-DSGE-Models
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+url_slides: https://www.dropbox.com/scl/fi/zwgdn1k82vvh343mro858/meyer-gohde_snde_2023.pdf?rlkey=8qqxnss9a9kyrjwxrfp81xpik&dl=1
+#url_source: '#'
+#url_video: '#'
 
 ---
