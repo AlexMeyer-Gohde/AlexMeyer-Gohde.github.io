@@ -25,4 +25,6 @@ tags:
 - Sticky information
 - Bayesian estimation
 share: false
+links:
+url_code: https://github.com/AlexMeyer-Gohde/LinLagEx
 ---
