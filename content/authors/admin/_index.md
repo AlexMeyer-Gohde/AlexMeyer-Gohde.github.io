@@ -85,4 +85,6 @@ social:
 highlight_name: true
 ---
 I am a passionate researcher and dedicated teacher in <b>macroeconomics</b>, especially its interaction with <b>financial markets</b> and associated <b>numerical methods</b>. I am currently a professor at the Goethe University Frankfurt and the Institute for Monetary and Financial Stability (IMFS). My research is concentrated on the methodological (numerical, theoretical, and empirical) foundations of macroeconomics and its financial market implications through nonlinearities in risk and uncertainty, as well as through market frictions. I'm originally from the US and obtained my bachelor's from Colorado State University in my home state before I moved to Germany. My master's followed at the Humboldt-Unversität zu Berlin and my doctorate then at the Technische Universität Berlin. I was in Hamburg, Berlin, and Potsdam before coming to Frankfurt in 2018.
+
+My code repositories can be found on my <a href="https://github.com/AlexMeyer-Gohde">GitHub page</a>.
 {style="text-align: justify;"}
