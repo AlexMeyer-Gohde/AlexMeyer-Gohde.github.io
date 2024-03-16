@@ -26,4 +26,6 @@ tags:
 - Solution methods
 - Volterra series
 share: false
+links:
+url_code: https://github.com/AlexMeyer-Gohde/Nonlinear-Moving-Average-for-DSGE
 ---
