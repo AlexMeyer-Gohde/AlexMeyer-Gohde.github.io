@@ -1,5 +1,5 @@
 ---
-title: The Digital Euro: Advantages and Risks of a Central Bank Digital Currency | Der digitale Euro: Chancen und Risiken einer digitalen Notenbankwährung
+title: The Digital Euro - Advantages and Risks of a Central Bank Digital Currency / Der digitale Euro - Chancen und Risiken einer digitalen Notenbankwährung
 authors:
 - Roland Broemel
 - admin
