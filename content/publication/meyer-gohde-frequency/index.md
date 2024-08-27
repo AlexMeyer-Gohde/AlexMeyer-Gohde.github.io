@@ -3,7 +3,7 @@ title: Solving Linear DSGE Models with Bernoulli Methods
 authors:
 - admin
 date: '2024-01-01'
-publishDate: '2024-01-01'
+publishDate: '2023-01-01'
 publication_types:
 - article
 publication: 'IMFS Working Paper Series'
