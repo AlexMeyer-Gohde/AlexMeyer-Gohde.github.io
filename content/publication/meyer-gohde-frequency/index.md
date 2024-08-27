@@ -1,9 +1,9 @@
 ---
-title: Solving Linear DSGE Models with Bernoulli Methods
+title: Solving and Analyzing DSGE Models in the Frequency Domain
 authors:
 - admin
-date: '2024-01-01'
-publishDate: '2023-01-01'
+date: '2024-08-25'
+publishDate: '2024-08-25'
 publication_types:
 - article
 publication: 'IMFS Working Paper Series'
