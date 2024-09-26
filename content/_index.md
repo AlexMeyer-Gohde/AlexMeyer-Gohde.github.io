@@ -37,11 +37,11 @@ sections:
           date_start: '2024-09-01'
           description: ''
           icon: ''
-          organization: German Research Foundation (DFG)
-          organization_url: https://www.dfg.de
-          title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
-          url: 'https://gepris.dfg.de/gepris/projekt/465469938?language=en'
-          description: Individual research grant
+          organization: Graduate School for Economics, Finance and Management at Goethe University Frankfurt
+          organization_url: https://www.gsefm.eu/about-us.html
+          title: Johanna Saecker 
+          url: 'https://josaecker.github.io/'
+          description: Job market candidate
         - date_end: '2023-03-31'
           date_start: '2022-04-01'
           description: Integration of interactive teaching and learning modules of Matlab in PMAK 
