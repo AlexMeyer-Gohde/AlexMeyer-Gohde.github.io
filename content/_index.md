@@ -48,17 +48,17 @@ sections:
           icon: ''
           organization: Graduate School for Economics, Finance and Management at Goethe University Frankfurt
           organization_url: https://www.gsefm.eu/about-us.html
-          title: Mary Tzaawa-Krezler
+          title: Mary Tzaawa-Krenzler
           url: 'https://mary-tzaawa-krenzler.github.io/'
           description: Job market candidate 2024-25
-        - date_end: '2024-10-01'
-          date_start: '2024-10-01'
-          description: Integration of interactive teaching and learning modules of Matlab in PMAK 
-          icon: stiftung_hochschullehre_logo
-          organization: DigiTeLL / Stiftung Innovation in der Hochschullehre
+        - date_end: '2024-10-23'
+          date_start: '2024-10-22'
+          description: This two half-day workshop will bring together researchers involved in the development and application of numerical methods in macroeconomics. Topics include solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. 
+          icon: ''
+          organization: Goethe University Frankfurt / IMFS / Deutsche Bundesbank
           organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
-          title: MatlabMakro
-          url: https://www.goethe-university-frankfurt.de/122966160/Partnerships#MatlabMakro
+          title: Research Workshop on "Numerical Methods in Macroeconomics" 
+          url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
     design:
       columns: '2'
   - block: collection
