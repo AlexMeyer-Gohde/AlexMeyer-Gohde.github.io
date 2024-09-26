@@ -34,9 +34,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2024'
+          date_start: '2024-09-01'
           description: ''
-          icon: dfg
+          icon: ''
           organization: German Research Foundation (DFG)
           organization_url: https://www.dfg.de
           title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
