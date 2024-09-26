@@ -51,9 +51,9 @@ sections:
           title: Mary Tzaawa-Krenzler
           url: 'https://mary-tzaawa-krenzler.github.io/'
           description: Job market candidate 2024-25
-        - date_end: '2024-10-23'
+        - date_end: ''
           date_start: '2024-10-22'
-          description: This two half-day workshop will bring together researchers involved in the development and application of numerical methods in macroeconomics. Topics include solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. 
+          description: I'm orgainizing a two half-day workshop that is bringing together researchers involved in the development and application of numerical methods in macroeconomics. Topics include solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. Speakers include Harald Uhlig, Thorsten Drautzburg, Kenneth Judd, Michael Reiter, Serguei Maliar, and Marco Ratto. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS / Deutsche Bundesbank
           organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
