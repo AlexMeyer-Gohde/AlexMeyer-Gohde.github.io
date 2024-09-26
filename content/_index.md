@@ -33,8 +33,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2024-11-14'
-          date_start: '2021-11-15'
+        - date_end: ''
+          date_start: '2024'
           description: ''
           icon: dfg
           organization: German Research Foundation (DFG)
