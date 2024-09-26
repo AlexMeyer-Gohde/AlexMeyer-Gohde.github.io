@@ -41,7 +41,7 @@ sections:
           organization_url: https://www.gsefm.eu/about-us.html
           title: Johanna Saecker 
           url: 'https://josaecker.github.io/'
-          description: Job market candidate 2024-25
+          description: Job market candidate 2024-25. Johanna's research focuses on the macroeconomic implications of green investment and the numerical solution of DSGE models.
         - date_end: ''
           date_start: '2024-09-01'
           description: ''
@@ -50,13 +50,13 @@ sections:
           organization_url: https://www.gsefm.eu/about-us.html
           title: Mary Tzaawa-Krenzler
           url: 'https://mary-tzaawa-krenzler.github.io/'
-          description: Job market candidate 2024-25
+          description: Job market candidate 2024-25. Mary has a pure and applied theoretical focus on information rigidities in macroeconomics.
         - date_end: ''
           date_start: '2024-10-22'
-          description: I'm orgainizing a two half-day workshop that is bringing together researchers involved in the development and application of numerical methods in macroeconomics. Topics include solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. Speakers include Harald Uhlig, Thorsten Drautzburg, Kenneth Judd, Michael Reiter, Serguei Maliar, and Marco Ratto. 
+          description: I'm organizing a two half-day workshop that is bringing together researchers involved in the development and application of numerical methods in macroeconomics. Topics include solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. Speakers include Harald Uhlig, Thorsten Drautzburg, Kenneth Judd, Michael Reiter, Serguei Maliar, and Marco Ratto. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS / Deutsche Bundesbank
-          organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
+          organization_url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
           title: Research Workshop on "Numerical Methods in Macroeconomics" 
           url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
     design:
