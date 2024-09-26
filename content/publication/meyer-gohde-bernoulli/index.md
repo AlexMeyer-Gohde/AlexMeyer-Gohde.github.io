@@ -2,8 +2,8 @@
 title: Solving Linear DSGE Models with Bernoulli Methods
 authors:
 - admin
-date: '2024-04-01'
-publishDate: '2024-04-01'
+date: '2024-09-26'
+publishDate: '2024-09-26'
 publication_types:
 - article-journal
 publication: '*Computational Economics*'
