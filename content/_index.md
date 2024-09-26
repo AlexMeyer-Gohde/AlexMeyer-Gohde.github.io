@@ -59,6 +59,7 @@ sections:
           organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
           title: Research Workshop on "Numerical Methods in Macroeconomics" 
           url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
+	  link: uploads/cv_meyer-gohde_website.pdf
     design:
       columns: '2'
   - block: collection
