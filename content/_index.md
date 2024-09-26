@@ -19,6 +19,39 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
+  - block: accomplishments
+    id: activities
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'News'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: '2024-11-14'
+          date_start: '2021-11-15'
+          description: ''
+          icon: dfg
+          organization: German Research Foundation (DFG)
+          organization_url: https://www.dfg.de
+          title: Numerical diagnostics and improvements for the solution of linear dynamic macroeconomic models 
+          url: 'https://gepris.dfg.de/gepris/projekt/465469938?language=en'
+          description: Individual research grant
+        - date_end: '2023-03-31'
+          date_start: '2022-04-01'
+          description: Integration of interactive teaching and learning modules of Matlab in PMAK 
+          icon: stiftung_hochschullehre_logo
+          organization: DigiTeLL / Stiftung Innovation in der Hochschullehre
+          organization_url: https://stiftung-hochschullehre.de/projekt/digitell/
+          title: MatlabMakro
+          url: https://www.goethe-university-frankfurt.de/122966160/Partnerships#MatlabMakro
+    design:
+      columns: '2'
   - block: collection
     id: featured
     content:
