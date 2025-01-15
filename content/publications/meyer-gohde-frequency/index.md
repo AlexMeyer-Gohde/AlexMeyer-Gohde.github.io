@@ -13,6 +13,7 @@ tags:
 - DSGE
 - Solution methods
 - Spectral methods
+- Frequency domain
 - Bayesian estimation
 - General exogenous processes
 
