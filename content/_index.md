@@ -34,6 +34,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2025-10-20'
+          description: Upcoming workshop (January 2026) that brings together researchers involved in the analysis on the financial and macroeconmic effects of monetary policy communication and information. Speakers include Eric Swanson and Silvia Miranda-Agrippino. 
+          icon: ''
+          organization: Goethe University Frankfurt / IMFS
+          organization_url: https://www.imfs-frankfurt.de/veranstaltungen/frankfurt-financial-stability-group
+          title: Research Workshop on "Frankfurt Stability Group: Workshop on Monetary Policy Communication and Information" 
+        #  url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
+        - date_end: ''
           date_start: '2024-09-01'
           description: ''
           icon: ''
@@ -53,7 +61,7 @@ sections:
           description: Job market candidate 2024-25. Mary has a pure and applied theoretical focus on information rigidities in macroeconomics.
         - date_end: ''
           date_start: '2024-10-22'
-          description: My workshop that brought together researchers involved in the development and application of numerical methods in macroeconomics. Topics included solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. Speakers include Harald Uhlig, Thorsten Drautzburg, Kenneth Judd, Michael Reiter, Serguei Maliar, and Marco Ratto. 
+          description: My workshop brought together researchers involved in the development and application of numerical methods in macroeconomics. Topics included solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. Speakers included Harald Uhlig, Thorsten Drautzburg, Kenneth Judd, Michael Reiter, Serguei Maliar, and Marco Ratto. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS / Deutsche Bundesbank
           organization_url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
