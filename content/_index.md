@@ -38,7 +38,7 @@ sections:
           description: Upcoming workshop (January 2026) that brings together researchers involved in the analysis on the financial and macroeconmic effects of monetary policy communication and information. Speakers include Eric Swanson and Silvia Miranda-Agrippino. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS
-          organization_url: 'https://www.imfs-frankfurt.de/veranstaltungen/frankfurt-financial-stability-group'
+          organization_url: https://www.imfs-frankfurt.de/veranstaltungen/frankfurt-financial-stability-group.html
           title: Research Workshop on "Frankfurt Stability Group: Workshop on Monetary Policy Communication and Information" 
           url: 'https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/'
         - date_end: ''
