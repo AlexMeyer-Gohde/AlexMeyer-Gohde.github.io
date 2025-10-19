@@ -34,7 +34,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2025-10-20'
+          date_start: '2025-10-19'
           description: Upcoming workshop (January 2026) that brings together researchers involved in the analysis on the financial and macroeconmic effects of monetary policy communication and information. Speakers include Eric Swanson and Silvia Miranda-Agrippino. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS
