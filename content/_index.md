@@ -40,7 +40,7 @@ sections:
           organization: Goethe University Frankfurt / IMFS
           organization_url: https://www.imfs-frankfurt.de/veranstaltungen/frankfurt-financial-stability-group
           title: Research Workshop on "Frankfurt Stability Group: Workshop on Monetary Policy Communication and Information" 
-        #  url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
+          url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/
         - date_end: ''
           date_start: '2024-09-01'
           description: ''
