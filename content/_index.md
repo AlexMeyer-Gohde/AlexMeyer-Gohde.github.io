@@ -34,13 +34,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2025-10-19'
+          date_start: '2025-10-18'
           description: Upcoming workshop (January 2026) that brings together researchers involved in the analysis on the financial and macroeconmic effects of monetary policy communication and information. Speakers include Eric Swanson and Silvia Miranda-Agrippino. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS
           organization_url: https://www.imfs-frankfurt.de/veranstaltungen/frankfurt-financial-stability-group
           title: Research Workshop on "Frankfurt Stability Group: Workshop on Monetary Policy Communication and Information" 
-          url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/
+          url: 'https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/'
         - date_end: ''
           date_start: '2024-09-01'
           description: ''
@@ -66,7 +66,7 @@ sections:
           organization: Goethe University Frankfurt / IMFS / Deutsche Bundesbank
           organization_url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
           title: Research Workshop on "Numerical Methods in Macroeconomics" 
-          url: https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html
+          url: 'https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/numerical-methods-in-macroeconomics.html'
     design:
       columns: '2'
   - block: collection
