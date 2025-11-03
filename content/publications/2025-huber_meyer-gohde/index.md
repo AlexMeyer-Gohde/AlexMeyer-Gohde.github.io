@@ -1,5 +1,5 @@
 ---
-title: Solving Linear DSGE Models with Structure Preserving Doubling Methods
+title: Iterative Refinement of the QZ Decomposition for Solving Linear DSGE Models
 authors:
 - Johannes Huber
 - admin
@@ -14,21 +14,5 @@ tags:
 - Numerical accuracy
 - DSGE
 - Solution methods
-
-# Display this page in the Featured widget?
-featured: false
-
-links:
-- name: IMFS Working Paper Series
-  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=461&cHash=f53244e0345a27419a9d40a3af98c02f
-url_pdf: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiKYrFgTkN2YkgmiWRNbpW/doubling_DSGE.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
 share: false
 ---
