@@ -8,7 +8,7 @@ publishDate: '2017-04-01'
 publication_types:
 - article-journal
 publication: '*Economics Letters*'
-doi: 10.1016/j.econlet.2017.04.019
+doi: https://doi.org/10.1016/j.econlet.2017.04.019
 abstract: We revisit Ball and Romer's (1990) canonical model of price setting with
   menu costs that exhibits multiple equilibria. We show that changes to firms’ markups
   move nominal and real rigidities in opposite directions. Using game-theoretic tools
