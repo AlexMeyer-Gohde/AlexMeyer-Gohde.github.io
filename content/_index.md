@@ -42,7 +42,7 @@ sections:
           title: "Frankfurt Stability Group: Workshop on Monetary Policy Communication and Information" 
           url: 'https://www.imfs-frankfurt.de/veranstaltungen/imfs-konferenzen/'
         - date_end: ''
-          date_start: '2024-09-01'
+          date_start: '2025-09-01'
           description: ''
           icon: ''
           organization: Graduate School for Economics, Finance and Management at Goethe University Frankfurt
@@ -51,11 +51,11 @@ sections:
           url: 'https://josaecker.github.io/'
           description: Job market candidate 2024-25. Johanna's research focuses on the macroeconomic implications of green investment and the numerical solution of DSGE models.
         - date_end: ''
-          date_start: '2024-09-01'
+          date_start: '2025-09-01'
           description: ''
           icon: ''
-          organization: Graduate School for Economics, Finance and Management at Goethe University Frankfurt
-          organization_url: https://www.gsefm.eu/about-us.html
+          organization: St Hugh’s College at Oxford University
+          organization_url: https://www.st-hughs.ox.ac.uk/people/dr-mary-tzaawa-krenzler/
           title: Mary Tzaawa-Krenzler
           url: 'https://mary-tzaawa-krenzler.github.io/'
           description: Job market candidate 2024-25. Mary has a pure and applied theoretical focus on information rigidities in macroeconomics.
