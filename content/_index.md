@@ -49,16 +49,16 @@ sections:
           organization_url: https://www.gsefm.eu/about-us.html
           title: Johanna Saecker 
           url: 'https://josaecker.github.io/'
-          description: Job market candidate 2024-25. Johanna's research focuses on the macroeconomic implications of green investment and the numerical solution of DSGE models.
+          description: Job market graduate 2024-25. Johanna's research focuses on the macroeconomic implications of green investment and the numerical solution of DSGE models. Congratulations on your PhD, Johanna!
         - date_end: ''
-          date_start: '2025-09-01'
+          date_start: '2025-10-01'
           description: ''
           icon: ''
           organization: St Hugh’s College at Oxford University
           organization_url: https://www.st-hughs.ox.ac.uk/people/dr-mary-tzaawa-krenzler/
           title: Mary Tzaawa-Krenzler
           url: 'https://mary-tzaawa-krenzler.github.io/'
-          description: Job market candidate 2024-25. Mary has a pure and applied theoretical focus on information rigidities in macroeconomics.
+          description: Job market graduate 2024-25. Mary has a pure and applied theoretical focus on information rigidities in macroeconomics. Congratulations on your PhD, Mary!
         - date_end: ''
           date_start: '2024-10-22'
           description: My workshop brought together researchers involved in the development and application of numerical methods in macroeconomics. Topics included solution methods, estimation methods, and machine learning applications for DSGE and other structural macroeconomic/-metric models, from linear representative agent to nonlinear and heterogeneous agent models, frequentist and Bayesian. Speakers included Harald Uhlig, Thorsten Drautzburg, Kenneth Judd, Michael Reiter, Serguei Maliar, and Marco Ratto. 
