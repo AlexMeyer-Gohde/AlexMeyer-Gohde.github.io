@@ -26,8 +26,10 @@ featured: true
 links:
 - name: IMFS Working Paper Series (earlier version)
   url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_189.pdf
+- name: Online Appendix
+  url: https://next.hessenbox.de/index.php/s/m8Qw3bERWdKrYPZ/download
 url_pdf: https://next.hessenbox.de/index.php/s/tJJqqoPE5eXMtCa/download
-url_appendix: https://next.hessenbox.de/index.php/s/m8Qw3bERWdKrYPZ/download
+
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 url_poster: https://next.hessenbox.de/index.php/s/W53etfPNXi4XLtj/download
