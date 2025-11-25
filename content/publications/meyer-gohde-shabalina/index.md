@@ -20,9 +20,9 @@ tags:
 
 links:
 - name: IMFS Working Paper Series
-  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=420&cHash=9017cf8f38174bf163a79e7516d9228f
+  url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_175.pdf
 #url_pdf: '#'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
