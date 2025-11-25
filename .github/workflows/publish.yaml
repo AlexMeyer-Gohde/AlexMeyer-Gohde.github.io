@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.141.0'   # keep or bump as you wish
+  WC_HUGO_VERSION: '0.123.3'   # keep or bump as you wish
 
 on:
   push:
