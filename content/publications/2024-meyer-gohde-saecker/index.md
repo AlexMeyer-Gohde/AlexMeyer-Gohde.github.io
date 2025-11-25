@@ -1,5 +1,5 @@
 ---
-title: Solving linear DSGE models with Newton methods
+title: Solving Linear DSGE Models with Newton Methods
 authors:
 - admin
 - Johanna Saecker
