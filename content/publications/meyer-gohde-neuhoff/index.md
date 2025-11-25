@@ -20,7 +20,7 @@ tags:
 links:
 - name: IMFS Working Paper
   url: https://www.imfs-frankfurt.de/en/research/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=310&cHash=d5bac20ceab7c2851cf170f2a12e9a79
-url_pdf: https://www.dropbox.com/scl/fi/74d9l1rpcrj6p0n5gtbha/dsge_varma.pdf?rlkey=fppb4adpa645c2dibhhh50jko&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/74d9l1rpcrj6p0n5gtbha/dsge_varma.pdf?rlkey=fppb4adpa645c2dibhhh50jko&dl=1
 url_code: 'https://github.com/AlexMeyer-Gohde/Bayesian-VARMA-Estimation'
 url_slides: https://www.dropbox.com/scl/fi/w9voc5ifzkvo1io8dgheb/Dynare_2015.pdf?rlkey=6yuy1qdp6um88exqibnky3ie5&dl=1
 
