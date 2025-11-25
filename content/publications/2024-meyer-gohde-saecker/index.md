@@ -24,5 +24,12 @@ tags:
 - Numerical accuracy
 - DSGE
 - Solution methods
+
+links:
+- name: IMFS Working Paper Series (earlier version)
+  url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_174.pdf
+
+url_code: https://data.mendeley.com/datasets/rr7nnc4ycn/1
+
 share: false
 ---
