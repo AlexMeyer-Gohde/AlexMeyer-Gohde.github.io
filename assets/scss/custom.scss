@@ -1,7 +1,7 @@
-/* Make the about section text wider and justified instead of centered */
-.home-section#about .content p {
-  text-align: justify;      /* or 'left' if you prefer */
-  max-width: 900px;         /* let the text breathe a bit */
+/* Style the About block text */
+.home-section#about .bio-text {
+  max-width: 900px;
+  text-align: justify;
   margin-left: auto;
   margin-right: auto;
 }
