@@ -22,7 +22,7 @@ featured: false
 links:
 - name: IMFS Working Paper Series
   url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_195.pdf
-url_pdf: https://next.hessenbox.de/index.php/s/mFQkeg6tPzkdxk8
+url_pdf: https://next.hessenbox.de/index.php/s/mFQkeg6tPzkdxk8/download
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
