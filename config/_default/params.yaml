@@ -121,5 +121,5 @@ security:
   allow_frame: true
 
 
-plugins_css:
+custom_css:
   - custom.scss
