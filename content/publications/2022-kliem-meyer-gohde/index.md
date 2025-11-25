@@ -25,6 +25,8 @@ tags:
 - time-varying risk
 - risk premium
 # Display this page in the Featured widget?
-featured: true
+featured: truelinks:
+- name: IMFS Working Paper Series
+  url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_137.pdf
 share: false
 ---
