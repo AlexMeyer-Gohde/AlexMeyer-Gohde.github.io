@@ -24,12 +24,12 @@ links:
   url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_195.pdf
 url_pdf: https://next.hessenbox.de/index.php/s/mFQkeg6tPzkdxk8
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-%url_dataset: '#'
-%url_poster: '#'
-%url_project: ''
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
 url_slides: ''
-%url_source: '#'
-%url_video: '#'
+#url_source: '#'
+#url_video: '#'
 
 share: false
 ---
