@@ -1,5 +1,5 @@
 ---
-title: Information Inertia and the Taylor Principle
+title: Informational Inertia and the Taylor Principle
 authors:
 - admin
 - Mary Tzaawa-Krenzler
