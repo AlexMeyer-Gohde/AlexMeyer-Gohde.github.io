@@ -137,7 +137,6 @@ sections:
       items:
         - date_end: '2024-11-14'
           date_start: '2021-11-15'
-          description: ''
           icon: dfg
           organization: German Research Foundation (DFG)
           organization_url: https://www.dfg.de
