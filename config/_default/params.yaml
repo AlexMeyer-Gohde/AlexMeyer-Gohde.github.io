@@ -6,7 +6,8 @@
 # Load JS plugins from assets/js
 plugins_js:
   - custom
-
+plugins_css:
+  - custom
 # Appearance
 
 appearance:
