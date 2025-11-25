@@ -24,9 +24,11 @@ tags:
 - monetary policy
 - time-varying risk
 - risk premium
-# Display this page in the Featured widget?
-featured: truelinks:
+links:
 - name: IMFS Working Paper Series
   url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_137.pdf
+
+# Display this page in the Featured widget?
+featured: true
 share: false
 ---
