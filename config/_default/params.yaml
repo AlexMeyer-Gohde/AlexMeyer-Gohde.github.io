@@ -3,6 +3,10 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# Load JS plugins from assets/js
+plugins_js:
+  - custom
+
 # Appearance
 
 appearance:
