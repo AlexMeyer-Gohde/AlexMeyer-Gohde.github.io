@@ -1,5 +1,5 @@
 ---
-title: Inattentiveness and the Taylor Principle
+title: Information Inertia and the Taylor Principle
 authors:
 - admin
 - Mary Tzaawa-Krenzler
@@ -27,11 +27,12 @@ links:
 - name: IMFS Working Paper Series (earlier version)
   url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_189.pdf
 url_pdf: https://next.hessenbox.de/index.php/s/tJJqqoPE5eXMtCa/download
+url_appendix: https://next.hessenbox.de/index.php/s/m8Qw3bERWdKrYPZ/download
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
-url_poster: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiKEvpJzhGJZGKSHrvMtFJ/poster_mary.pdf
+url_poster: https://next.hessenbox.de/index.php/s/W53etfPNXi4XLtj/download
 #url_project: ''
-url_slides: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiAR8YbRvb9fi4bm5s5QRc/Frequency_Domain_Presentation.pdf
+url_slides: https://next.hessenbox.de/index.php/s/326Rio4bHtwW95q/download
 #url_source: '#'
 #url_video: '#'
 
