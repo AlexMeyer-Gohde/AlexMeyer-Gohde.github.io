@@ -19,7 +19,7 @@ tags:
 links:
 - name: IMFS Working Paper Series
   url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=434&cHash=7599e8bc3cf66687ebefbfc5b9e03470
-url_pdf: https://www.dropbox.com/scl/fi/5dv2gwem5wa7qqaalso8u/bernoulli_DSGE.pdf?rlkey=50cip70n62l5bowxzx8tt9sk6&dl=0
+#url_pdf: https://www.dropbox.com/scl/fi/5dv2gwem5wa7qqaalso8u/bernoulli_DSGE.pdf?rlkey=50cip70n62l5bowxzx8tt9sk6&dl=1
 url_code: https://github.com/AlexMeyer-Gohde/Linear-DSGE-with-Bernoulli
 url_slides: https://www.dropbox.com/scl/fi/7k1rzjqxx95zxb2lo6etl/meyer-gohde_esem_eea_2023.pdf?rlkey=yfjwyg5pau60xs56gitdo36bh&dl=1
 
