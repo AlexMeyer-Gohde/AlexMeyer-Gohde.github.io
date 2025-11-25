@@ -25,8 +25,8 @@ featured: true
 
 links:
 - name: IMFS Working Paper Series (earlier version)
-  url: https://www.imfs-frankfurt.de/forschung/imfs-working-papers/details.html?tx_mmpublications_publicationsdetail%5Bcontroller%5D=Publication&tx_mmpublications_publicationsdetail%5Bpublication%5D=449&cHash=088bc7bab3b7c61bdb014afe2f3be6e9
-url_pdf: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiGwfAA5bEKM1vcizn1aNF/inattention_determinacy.pdf
+  url: https://www.imfs-frankfurt.de/fileadmin/research/working_papers/imfs_wp_189.pdf
+url_pdf: https://next.hessenbox.de/index.php/s/tJJqqoPE5eXMtCa/download
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 url_poster: https://hessenbox-a10.rz.uni-frankfurt.de/dl/fiKEvpJzhGJZGKSHrvMtFJ/poster_mary.pdf
