@@ -34,8 +34,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2025-10-18'
-          description: Upcoming FFSG (Frankfurt Stability Group) workshop (January 2026) that brings together researchers involved in the analysis on the financial and macroeconomic effects of monetary policy communication and information. Speakers include Eric Swanson and Silvia Miranda-Agrippino. 
+          date_start: '2026-01-16'
+          description: The third FFSG (Frankfurt Stability Group) workshop brought together researchers involved in the analysis on the financial and macroeconomic effects of monetary policy communication and information. Speakers included Eric Swanson and Silvia Miranda-Agrippino. 
           icon: ''
           organization: Goethe University Frankfurt / IMFS
           organization_url: https://www.imfs-frankfurt.de/en/events/frankfurt-financial-stability-group/
