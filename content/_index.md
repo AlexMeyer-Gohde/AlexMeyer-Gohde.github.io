@@ -44,7 +44,7 @@ sections:
         - date_end: ''
           date_start: '2025-09-01'
           icon: ''
-          organization: Graduate School for Economics, Finance and Management at Goethe University Frankfurt
+          organization: Catholic University Eichstätt-Ingolstadt
           organization_url: https://www.gsefm.eu/about-us.html
           title: Johanna Saecker 
           url: 'https://josaecker.github.io/'
