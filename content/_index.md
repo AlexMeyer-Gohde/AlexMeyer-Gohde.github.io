@@ -175,13 +175,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Professor of Financial Markets and Macroeconomics
+        - title: Full Professor (W3) of Financial Markets and Macroeconomics
+          company: Goethe University Frankfurt
+          company_url: 'https://www.wiwi.uni-frankfurt.de/en/home.html'
+          company_logo: Goethe
+          location: Frankfurt, Germany
+          date_start: '2025-04-01'
+          date_end: ''
+          description: |2-
+              Management of chair, research, teaching at all levels BSc/MSc/PhD, participation in university self-administration
+        - title: Associate Professor (W2) of Financial Markets and Macroeconomics
           company: Goethe University Frankfurt
           company_url: 'https://www.wiwi.uni-frankfurt.de/en/home.html'
           company_logo: Goethe
           location: Frankfurt, Germany
           date_start: '2018-04-01'
-          date_end: ''
+          date_end: '2025-03-31'
           description: |2-
               Management of chair, research, teaching at all levels BSc/MSc/PhD, participation in university self-administration
         - title: IMFS Professor
