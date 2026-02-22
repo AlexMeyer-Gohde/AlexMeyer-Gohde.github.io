@@ -3,11 +3,11 @@ title: Solving and Analyzing DSGE Models in the Frequency Domain
 authors:
 - admin
 date: '2024-08-25'
-publishDate: '2024-08-25'
+publishDate: '2026-02-04'
 publication_types:
 - article
 publication: 'IMFS Working Paper Series'
-doi: ''
+doi: 'https://doi.org/10.1016/j.jedc.2026.105281'
 abstract: I provide a solution method in the frequency domain for multivariate linear rational expectations models. The method works with the generalized Schur decomposition, providing a numerical implementation of the underlying analytic function solution methods suitable for standard DSGE estimation and analysis procedures. This approach generalizes the time-domain restriction of autoregressive-moving average exogenous driving forces to arbitrary covariance stationary processes. Applied to the standard New Keynesian model, I find that a Bayesian analysis favors a single parameter log harmonic function of the lag operator over the usual AR(1) assumption as it generates humped shaped autocorrelation patterns more consistent with the data.
 tags:
 - DSGE
