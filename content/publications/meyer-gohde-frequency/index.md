@@ -2,7 +2,7 @@
 title: Solving and Analyzing DSGE Models in the Frequency Domain
 authors:
 - admin
-date: '2024-08-25'
+date: '2026-02-04'
 publishDate: '2026-02-04'
 publication_types:
 - article
