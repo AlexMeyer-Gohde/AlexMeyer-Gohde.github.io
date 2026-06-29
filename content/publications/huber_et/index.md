@@ -4,8 +4,8 @@ authors:
 - Johannes Huber
 - admin
 - Johanna Saecker
-date: '2024-03-01'
-publishDate: '2024-03-01'
+date: '2026-01-21'
+publishDate: '2026-01-21'
 publication_types:
 - article
 publication: ""
